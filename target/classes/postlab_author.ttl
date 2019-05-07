@@ -1,0 +1,264 @@
+@prefix test:  <http://localhost:8890/research#> .
+
+test:Paula_Furtado  a  test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Paula Furtado" ;
+        test:wrote  "paper79" .
+
+test:Kwang-I_Yu  a  test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Kwang-I Yu" ;
+        test:wrote  "paper52" .
+
+test:Antoni_Wolski  a  test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antoni Wolski" ;
+        test:wrote  "paper12" , "paper73" , "paper71" , "paper68" .
+
+test:Michael_Stonebraker
+        a           test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Michael Stonebraker" ;
+        test:wrote  "paper32" , "paper18" , "paper59" .
+
+test:Li-Yan_Yuan  a  test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Li-Yan Yuan" ;
+        test:wrote  "paper35" .
+
+test:Bharathi_Subramanian
+        a           test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bharathi Subramanian" ;
+        test:wrote  "paper52" , "paper3" , "paper35" .
+
+test:David_Farmer  a  test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "David Farmer" ;
+        test:wrote  "paper11" , "paper45" , "paper15" , "paper50" , "paper72" .
+
+test:H._C._Du  a    test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "H. C. Du" ;
+        test:wrote  "paper80" , "paper42" .
+
+test:Mohan_Kamath  a  test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mohan Kamath" ;
+        test:wrote  "paper76" , "paper29" .
+
+test:Hector_Garcia-Molina
+        a           test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hector Garcia-Molina" ;
+        test:wrote  "paper13" , "paper45" .
+
+test:Ajit_K._Patankar
+        a           test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ajit K. Patankar" ;
+        test:wrote  "paper58" .
+
+test:Kelly_W._Cartron
+        a           test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Kelly W. Cartron" ;
+        test:wrote  "paper56" , "paper71" .
+
+test:Alle_IJbema  a  test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Alle IJbema" ;
+        test:wrote  "paper28" .
+
+test:Eric_N._Hanson  a  test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eric N. Hanson" ;
+        test:wrote  "paper69" .
+
+test:Maurizio_Lenzerini
+        a           test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Maurizio Lenzerini" ;
+        test:wrote  "paper38" .
+
+test:Christian_S._Jensen
+        a           test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Christian S. Jensen" ;
+        test:wrote  "paper60" , "paper31" , "paper44" , "paper20" , "paper13" , "paper50" , "paper43" .
+
+test:Stanley_B._Zdonik
+        a           test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Stanley B. Zdonik" ;
+        test:wrote  "paper18" , "paper52" , "paper11" , "paper32" , "paper62" .
+
+test:Siu-Lun_Au  a  test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Siu-Lun Au" ;
+        test:wrote  "paper80" .
+
+test:Douglas_W._Cornell
+        a           test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Douglas W. Cornell" ;
+        test:wrote  "paper28" , "paper17" , "paper48" .
+
+test:Yang-Chang_Hong  a  test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Yang-Chang Hong" ;
+        test:wrote  "paper73" , "paper8" , "paper9" , "paper36" , "paper26" , "paper67" , "paper10" .
+
+test:Jeffrey_Scott_Vitter
+        a           test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Jeffrey Scott Vitter" ;
+        test:wrote  "paper36" , "paper31" , "paper24" .
+
+test:Daniel_Barbará  a  test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Daniel Barbará" ;
+        test:wrote  "paper11" .
+
+test:Herman_Lam  a  test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Herman Lam" ;
+        test:wrote  "paper20" , "paper47" , "paper39" .
+
+test:Lijuan_Li  a   test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lijuan Li" ;
+        test:wrote  "paper41" , "paper24" , "paper30" , "paper44" , "paper36" , "paper12" .
+
+test:Christine_Parent
+        a           test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Christine Parent" ;
+        test:wrote  "paper74" , "paper29" , "paper55" , "paper65" , "paper15" .
+
+test:Doron_Rotem  a  test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Doron Rotem" ;
+        test:wrote  "paper23" , "paper39" , "paper35" , "paper14" , "paper57" .
+
+test:Daniel_F._Lieuwen
+        a           test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Daniel F. Lieuwen" ;
+        test:wrote  "paper40" , "paper75" .
+
+test:Silvana_Castano  a  test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Silvana Castano" ;
+        test:wrote  "paper41" , "paper57" , "paper69" , "paper5" , "paper3" , "paper12" , "paper49" .
+
+test:H._V._Jagadish  a  test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "H. V. Jagadish" ;
+        test:wrote  "paper37" , "paper28" , "paper61" , "paper53" , "paper18" , "paper23" , "paper78" .
+
+test:Algirdas_Avizienis
+        a           test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Algirdas Avizienis" ;
+        test:wrote  "paper15" , "paper59" , "paper70" .
+
+test:Albert_Croker  a  test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Albert Croker" ;
+        test:wrote  "paper51" , "paper80" , "paper21" , "paper4" .
+
+test:Jonathan_P._Gilbert
+        a           test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Jonathan P. Gilbert" ;
+        test:wrote  "paper19" , "paper10" , "paper9" , "paper22" .
+
+test:Joachim_Schü  a  test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Joachim Schü" ;
+        test:wrote  "paper27" , "paper6" .
+
+test:Mimi_Kao  a    test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mimi Kao" ;
+        test:wrote  "paper77" .
+
+test:Krithi_Ramamritham
+        a           test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Krithi Ramamritham" ;
+        test:wrote  "paper78" , "paper60" , "paper50" .
+
+test:Valeria_De_Antonellis
+        a           test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Valeria De Antonellis" ;
+        test:wrote  "paper39" .
+
+test:Arun_N._Swami  a  test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arun N. Swami" ;
+        test:wrote  "paper23" , "paper70" , "paper68" , "paper63" , "paper27" , "paper25" .
+
+test:A._Moon  a     test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "A. Moon" ;
+        test:wrote  "paper47" , "paper32" , "paper57" , "paper42" .
+
+test:Masao_Sakauchi  a  test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Masao Sakauchi" ;
+        test:wrote  "paper67" , "paper62" , "paper64" , "paper51" , "paper17" , "paper16" .
+
+test:Asit_Dan  a    test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Asit Dan" ;
+        test:wrote  "paper59" , "paper2" , "paper43" .
+
+test:Arnon_Rosenthal  a  test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arnon Rosenthal" ;
+        test:wrote  "paper54" .
+
+test:Rafael_Alonso  a  test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rafael Alonso" ;
+        test:wrote  "paper67" , "paper68" , "paper55" , "paper34" , "paper20" , "paper71" , "paper29" , "paper72" , "paper47" , "paper78" , "paper60" .
+
+test:Jack_Milton  a  test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Jack Milton" ;
+        test:wrote  "paper56" , "paper33" .
+
+test:Ming-Chien_Shan  a  test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ming-Chien Shan" ;
+        test:wrote  "paper42" .
+
+test:George_P._Copeland
+        a           test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "George P. Copeland" ;
+        test:wrote  "paper65" , "paper24" , "paper46" , "paper70" , "paper26" , "paper41" , "paper77" .
+
+test:Danilo_Montesi  a  test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Danilo Montesi" ;
+        test:wrote  "paper1" .
+
+test:Rodney_P._Zimmerman
+        a           test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rodney P. Zimmerman" ;
+        test:wrote  "paper63" , "paper26" .
+
+test:Erol_Gelenbe  a  test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Erol Gelenbe" ;
+        test:wrote  "paper14" , "paper7" , "paper66" , "paper2" , "paper13" , "paper55" .
+
+test:Clement_T._Yu  a  test:author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Clement T. Yu" ;
+        test:wrote  "paper1" , "paper48" , "paper72" , "paper8" .

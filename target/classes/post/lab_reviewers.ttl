@@ -1,0 +1,243 @@
+@prefix test:  <http://localhost:8890/research#> .
+
+test:Paula_Furtado  a  test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Paula Furtado" ;
+        test:review  "paper27" , "paper50" , "paper48" , "paper46" .
+
+test:Antoni_Wolski  a  test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Antoni Wolski" ;
+        test:review  "paper16" , "paper52" , "paper23" , "paper28" .
+
+test:Michael_Stonebraker
+        a            test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Michael Stonebraker" ;
+        test:review  "paper58" .
+
+test:Li-Yan_Yuan  a  test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Li-Yan Yuan" ;
+        test:review  "paper76" , "paper22" , "paper49" , "paper40" .
+
+test:Bharathi_Subramanian
+        a            test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bharathi Subramanian" ;
+        test:review  "paper12" .
+
+test:David_Farmer  a  test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "David Farmer" ;
+        test:review  "paper75" , "paper7" .
+
+test:H._C._Du  a     test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "H. C. Du" ;
+        test:review  "paper44" , "paper70" , "paper8" , "paper3" .
+
+test:Mohan_Kamath  a  test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mohan Kamath" ;
+        test:review  "paper69" .
+
+test:Hector_Garcia-Molina
+        a            test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hector Garcia-Molina" ;
+        test:review  "paper18" , "paper24" .
+
+test:Ajit_K._Patankar
+        a            test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ajit K. Patankar" ;
+        test:review  "paper66" , "paper17" , "paper60" , "paper72" .
+
+test:Kelly_W._Cartron
+        a            test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Kelly W. Cartron" ;
+        test:review  "paper26" , "paper78" , "paper39" , "paper28" , "paper11" , "paper41" .
+
+test:Ling_Liu_0001  a  test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ling Liu 0001" ;
+        test:review  "paper62" , "paper15" .
+
+test:Eric_N._Hanson  a  test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eric N. Hanson" ;
+        test:review  "paper18" , "paper26" , "paper25" , "paper65" , "paper43" , "paper3" .
+
+test:Maurizio_Lenzerini
+        a            test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Maurizio Lenzerini" ;
+        test:review  "paper48" , "paper40" , "paper24" , "paper20" , "paper15" .
+
+test:Christian_S._Jensen
+        a            test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Christian S. Jensen" ;
+        test:review  "paper34" , "paper21" , "paper51" , "paper38" .
+
+test:Stanley_B._Zdonik
+        a            test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Stanley B. Zdonik" ;
+        test:review  "paper53" , "paper47" , "paper30" , "paper74" , "paper12" , "paper34" , "paper7" , "paper10" .
+
+test:Siu-Lun_Au  a   test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Siu-Lun Au" ;
+        test:review  "paper13" , "paper15" .
+
+test:Douglas_W._Cornell
+        a            test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Douglas W. Cornell" ;
+        test:review  "paper6" .
+
+test:Yang-Chang_Hong  a  test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Yang-Chang Hong" ;
+        test:review  "paper66" , "paper42" .
+
+test:Jeffrey_Scott_Vitter
+        a            test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Jeffrey Scott Vitter" ;
+        test:review  "paper8" , "paper17" , "paper57" .
+
+test:Lijuan_Li  a    test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lijuan Li" ;
+        test:review  "paper68" , "paper10" , "paper39" , "paper18" , "paper55" , "paper36" , "paper14" , "paper54" .
+
+test:Doron_Rotem  a  test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Doron Rotem" ;
+        test:review  "paper61" , "paper52" .
+
+test:Christine_Parent
+        a            test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Christine Parent" ;
+        test:review  "paper60" , "paper33" .
+
+test:Daniel_F._Lieuwen
+        a            test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Daniel F. Lieuwen" ;
+        test:review  "paper58" .
+
+test:Silvana_Castano  a  test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Silvana Castano" ;
+        test:review  "paper31" , "paper35" , "paper1" .
+
+test:H._V._Jagadish  a  test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "H. V. Jagadish" ;
+        test:review  "paper67" , "paper59" , "paper51" , "paper57" , "paper80" .
+
+test:Algirdas_Avizienis
+        a            test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Algirdas Avizienis" ;
+        test:review  "paper19" , "paper67" , "paper29" , "paper42" , "paper11" .
+
+test:Albert_Croker  a  test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Albert Croker" ;
+        test:review  "paper50" .
+
+test:Jonathan_P._Gilbert
+        a            test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Jonathan P. Gilbert" ;
+        test:review  "paper48" , "paper63" .
+
+test:Joachim_Schü  a  test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Joachim Schü" ;
+        test:review  "paper71" , "paper75" .
+
+test:Mimi_Kao  a     test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mimi Kao" ;
+        test:review  "paper77" .
+
+test:Valeria_De_Antonellis
+        a            test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Valeria De Antonellis" ;
+        test:review  "paper64" , "paper13" .
+
+test:Arun_N._Swami  a  test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arun N. Swami" ;
+        test:review  "paper43" .
+
+test:A._Moon  a      test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "A. Moon" ;
+        test:review  "paper80" , "paper44" , "paper4" , "paper43" , "paper20" .
+
+test:Masao_Sakauchi  a  test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Masao Sakauchi" ;
+        test:review  "paper76" , "paper38" , "paper8" , "paper73" .
+
+test:Asit_Dan  a     test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Asit Dan" ;
+        test:review  "paper14" , "paper62" , "paper42" .
+
+test:Arnon_Rosenthal  a  test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arnon Rosenthal" ;
+        test:review  "paper41" , "paper37" , "paper40" .
+
+test:Rafael_Alonso  a  test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rafael Alonso" ;
+        test:review  "paper56" , "paper22" , "paper3" , "paper55" , "paper63" , "paper33" .
+
+test:Jack_Milton  a  test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Jack Milton" ;
+        test:review  "paper32" , "paper78" , "paper74" , "paper7" , "paper69" , "paper21" , "paper26" , "paper49" , "paper41" , "paper46" , "paper6" .
+
+test:Ming-Chien_Shan  a  test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ming-Chien Shan" ;
+        test:review  "paper4" , "paper2" , "paper58" .
+
+test:George_P._Copeland
+        a            test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "George P. Copeland" ;
+        test:review  "paper67" , "paper56" , "paper53" , "paper23" .
+
+test:Danilo_Montesi  a  test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Danilo Montesi" ;
+        test:review  "paper79" , "paper22" , "paper5" , "paper61" , "paper28" , "paper68" , "paper32" .
+
+test:Rodney_P._Zimmerman
+        a            test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rodney P. Zimmerman" ;
+        test:review  "paper30" , "paper78" , "paper23" , "paper72" , "paper45" .
+
+test:Erol_Gelenbe  a  test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Erol Gelenbe" ;
+        test:review  "paper20" .
+
+test:Clement_T._Yu  a  test:reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Clement T. Yu" ;
+        test:review  "paper9" , "paper44" , "paper75" , "paper4" , "paper76" .

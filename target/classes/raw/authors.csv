@@ -1,0 +1,778 @@
+author,key
+Christian S. Jensen,conf/icde/HuhtalaKPT98
+Rodney P. Zimmerman,conf/icde/AvizienisCA84
+Silvana Castano,conf/icde/AhujaB88
+Christian S. Jensen,conf/icde/MooreP96
+Silvana Castano,conf/icde/WuB98
+Siu-Lun Au,conf/icde/IJbemaB86
+Algirdas Avizienis,conf/icde/PatankarSS96
+Maurizio Lenzerini,conf/icde/KolovsonS89
+Jack Milton,conf/icde/StonebrakerO93
+Jack Milton,conf/icde/KaferS92
+Rodney P. Zimmerman,conf/icde/SeshadriS95
+Li-Yan Yuan,conf/icde/MontesiT95
+Arnon Rosenthal,conf/icde/HuangL88
+Algirdas Avizienis,conf/icde/KaoCL87
+Ajit K. Patankar,conf/icde/ChakrabartiM98
+George P. Copeland,conf/icde/OzsoyogluC86
+Kelly W. Cartron,conf/icde/BelfordLCCEGHKKLMMSYZRL84
+Michael Stonebraker,conf/icde/AlashqurSL90
+Asit Dan,conf/icde/LaurentLSV99
+George P. Copeland,conf/icde/CalmetJS97
+Algirdas Avizienis,conf/icde/WagnerFH90
+Ming-Chien Shan,conf/icde/WuTI89
+Lijuan Li,conf/icde/SwamiI93
+Doron Rotem,conf/icde/Woodruff97
+Eric N. Hanson,conf/icde/YuwonoL96
+Danilo Montesi,conf/icde/CrokerM86
+Danilo Montesi,conf/icde/GangulyKS91
+Christine Parent,conf/icde/HuangJR97
+Antoni Wolski,conf/icde/ShenOL94
+Yang-Chang Hong,conf/icde/DavidsonK97
+Ajit K. Patankar,conf/icde/IshikawaIYHM86
+Danilo Montesi,conf/icde/BilirisP95
+Yang-Chang Hong,conf/icde/LinD98
+Masao Sakauchi,conf/icde/CheineyK88
+Danilo Montesi,conf/icde/BiskupB89
+A. Moon,conf/icde/PetitTBK96
+Ajit K. Patankar,conf/icde/OzdenRS98
+Valeria De Antonellis,conf/icde/TirriR87
+Albert Croker,conf/icde/TangN89
+Jeffrey Scott Vitter,conf/icde/HayneR90
+Paula Furtado,conf/icde/TriantafillouX94
+Stanley B. Zdonik,conf/icde/HsuP95
+Ming-Chien Shan,conf/icde/HardwickSS87
+Lijuan Li,conf/icde/ElmagarmidH88
+Rafael Alonso,conf/icde/LeeL90
+H. C. Du,conf/icde/YokotaKM99
+Lijuan Li,conf/icde/LieuwenGA96
+Masao Sakauchi,conf/icde/SongJ95
+Bharathi Subramanian,conf/icde/GuhaRS99
+Erol Gelenbe,conf/icde/LienCW88
+Daniel Barbará,conf/icde/MoffatZ94
+Joachim Schü,conf/icde/CasasS89
+Daniel F. Lieuwen,conf/icde/OyangLWC95
+Rafael Alonso,conf/icde/MannilaR86
+Asit Dan,conf/icde/WuYT94
+Albert Croker,conf/icde/ShengW92
+Rafael Alonso,conf/icde/HuaS93
+Silvana Castano,conf/icde/OrlandoRS84
+Joseph E. Urban,conf/icde/GeorgakopoulosRS91
+Erol Gelenbe,conf/icde/KelleyR86
+Mimi Kao,conf/icde/IshikawaKOYKK96
+H. V. Jagadish,conf/icde/KantorowitzMS86
+Doron Rotem,conf/icde/BittonHT87
+Clement T. Yu,conf/icde/FranaszekRT91
+Kwang-I Yu,conf/icde/RanftRD90
+Hector Garcia-Molina,conf/icde/YokotaSI86
+Paula Furtado,conf/icde/YanG94
+Jonathan P. Gilbert,conf/icde/ShidlovskyB96
+A. Moon,conf/icde/GottemukkalaJP97
+A. Moon,conf/icde/TenienteU95
+Maurizio Lenzerini,conf/icde/BukhresKP93
+Erol Gelenbe,conf/icde/ParisL91
+Silvana Castano,conf/icde/KunoR96
+Jack Milton,conf/icde/HsuS91
+Douglas W. Cornell,conf/icde/JenqKT87
+Christine Parent,conf/icde/QianR95
+H. V. Jagadish,conf/icde/BalkirSOO96
+Erol Gelenbe,conf/icde/BertinoCC99
+Clement T. Yu,conf/icde/ChenD96
+Christine Parent,conf/icde/VenkataramanNL98
+Herman Lam,conf/icde/SeshadriPL96
+Siu-Lun Au,conf/icde/BurkhardMP87
+Antoni Wolski,conf/icde/WahL84
+Ming-Chien Shan,conf/icde/CheungAA89
+Jonathan P. Gilbert,conf/icde/DattaCKMK97
+Kelly W. Cartron,conf/icde/KamathR98
+Ling Liu 0001,conf/icde/LimSPR93
+H. C. Du,conf/icde/FranaszekRT90
+Michael Stonebraker,conf/icde/BodorikSJ92
+Clement T. Yu,conf/icde/CornellY88
+Ajit K. Patankar,conf/icde/LakshmananM95
+George P. Copeland,conf/icde/SilverHB94
+Joachim Schü,conf/icde/LaaschS93
+Jonathan P. Gilbert,conf/icde/HuaTY95
+Jack Milton,conf/icde/ChoenniBBC94
+Doron Rotem,conf/icde/AbererF95
+Mohan Kamath,conf/icde/GeorgakopoulosHKM94
+David Farmer,conf/icde/AikenCSW96
+H. V. Jagadish,conf/icde/LitwinV86
+Kelly W. Cartron,conf/icde/HanL86
+Rafael Alonso,conf/icde/DeMichielCLAA93
+Daniel F. Lieuwen,conf/icde/LiuHC99
+H. V. Jagadish,conf/icde/DuG87
+Danilo Montesi,conf/icde/LometS89
+Erol Gelenbe,conf/icde/Shyan-MingJ89
+Rafael Alonso,conf/icde/FerrariL84
+H. V. Jagadish,conf/icde/BittonMT89
+Eric N. Hanson,conf/icde/KerstenB94
+Bharathi Subramanian,conf/icde/LiuM86
+Christian S. Jensen,conf/icde/YangYLDWP94
+Mimi Kao,conf/icde/LiuS90
+Douglas W. Cornell,conf/icde/LakshmananM92
+Lijuan Li,conf/icde/ChenR89
+Rodney P. Zimmerman,conf/icde/HallG91
+Arun N. Swami,conf/icde/CheineyFM86
+David Farmer,conf/icde/KlineS95
+Stanley B. Zdonik,conf/icde/ZhaoRTN98
+Christine Parent,conf/icde/LiE93
+Daniel Barbará,conf/icde/DanYC93
+Mohan Kamath,conf/icde/KouramajianEC94
+Yang-Chang Hong,conf/icde/MoerkotteZ93
+Rafael Alonso,conf/icde/ParkS88
+George P. Copeland,conf/icde/KrishnamurthyZ95
+Stanley B. Zdonik,conf/icde/WeiLLL92
+Doron Rotem,conf/er/NavatheB91
+Kelly W. Cartron,conf/er/EsculierG79
+Li-Yan Yuan,conf/er/EmbleyCJLNQS98
+Jeffrey Scott Vitter,conf/er/ScheweS96
+Krithi Ramamritham,conf/er/RoseS91
+Algirdas Avizienis,conf/er/TheodoratosS98
+Danilo Montesi,conf/er/HeuerFW90
+Alle IJbema,conf/er/LaenderF93
+A. Moon,conf/er/HsuPBC87
+Lijuan Li,conf/er/HornsbyEH99
+Bharathi Subramanian,conf/er/KedadM99
+Douglas W. Cornell,conf/er/TopaloglouM96
+Joachim Schü,conf/er/LiuP97
+Lijuan Li,conf/er/HruskaK97
+Stanley B. Zdonik,conf/er/TamassiaBT83
+Masao Sakauchi,conf/er/GermanC99
+David Farmer,conf/er/CivelekDS88
+Kelly W. Cartron,conf/er/NgP79
+Arnon Rosenthal,conf/er/SongJB92
+Algirdas Avizienis,conf/er/LingL98
+Yang-Chang Hong,conf/er/RyanL86
+Arun N. Swami,conf/er/KemperLMWL90
+Albert Croker,conf/er/WongK79
+Antoni Wolski,conf/er/VelosoF83
+Hector Garcia-Molina,conf/er/CasatiCPP96
+Rafael Alonso,conf/er/DelcambreM99
+Jonathan P. Gilbert,conf/er/PastorPIG98
+Jack Milton,conf/er/Teorey90
+Rafael Alonso,conf/er/CazinJM85
+Daniel Barbará,conf/er/NarasimhanNJ93
+Kwang-I Yu,conf/er/BriandDHHK87
+Paula Furtado,conf/er/SilvaLRG99
+Rodney P. Zimmerman,conf/er/CastanoAM98
+H. V. Jagadish,conf/er/BonoF92
+Victor O. K. Li,conf/er/StoreyUS97
+Arthur J. Benjamin,conf/er/AtzeniC83
+David J. DeWitt,conf/er/BergamaschiS98
+Jonathan P. Gilbert,conf/er/SchreflS97
+Algirdas Avizienis,conf/er/LockemannM91
+Jack Milton,conf/er/CuceZ98
+Masao Sakauchi,conf/er/GalE95
+Christine Parent,conf/er/WenguandCD91
+Daniel Barbará,conf/er/LingT94
+Kai-Hau Yeung,conf/er/BouneffaB95
+Arnon Rosenthal,conf/er/TreschS92
+Erol Gelenbe,conf/er/AtzeniBLV81
+Herman Lam,conf/er/ZhuNGDA90
+George P. Copeland,conf/er/YeeH97
+Erich J. Neuhold,conf/er/ParentRYS89
+Silvana Castano,conf/er/HeiselS99
+Mohan Kamath,conf/er/CardenasW85
+Maurizio Lenzerini,conf/er/BouzeghoubM91
+H. V. Jagadish,conf/er/HartelJ94
+Joseph E. Urban,conf/er/RoseS93
+Kornel Szabo,conf/er/DavisB89
+Daniel Barbará,conf/er/DeyS97
+Michael Stonebraker,conf/er/GolgsteinS89
+Erol Gelenbe,conf/er/MitchellFP95
+Erol Gelenbe,conf/er/LingL92
+Kornel Szabo,conf/er/StoreyGCD93
+Masao Sakauchi,conf/er/LindquistLL87
+Joachim Schü,conf/er/RauhS93
+Chinya V. Ravishankar,conf/er/SneedG83
+Danilo Montesi,conf/er/TanakaNCK91
+Albert Croker,conf/er/HwangC98
+Sushil Jajodia,conf/er/DittrichGL86
+Arthur J. Benjamin,conf/er/ChiangR81
+Hector Garcia-Molina,conf/er/PissinouMHJK97
+Ling Liu 0001,conf/er/McBrienP97
+Christine Parent,conf/er/CasatiCPP95
+Albert Croker,conf/er/YuM94
+Jeffrey Scott Vitter,conf/er/FrankE99
+Arun N. Swami,conf/er/GardarinSD99
+Alle IJbema,conf/er/SongF91
+Stanley B. Zdonik,conf/er/MarkowitzS89
+David J. DeWitt,conf/er/ZamperoniL93
+Mohan Kamath,conf/er/NeuholdQ81
+Ming-Chien Shan,conf/er/Al-JadirL98
+Arthur J. Benjamin,conf/er/LeungCYN98
+Jeffrey Scott Vitter,conf/er/EbertWDFS96
+Rodney P. Zimmerman,conf/er/BhowmickMNL98a
+Mohan Kamath,conf/er/HsuR79
+Clement T. Yu,conf/er/ReinerBFLMRR86
+Paula Furtado,conf/er/PillaiRAW98
+Yang-Chang Hong,conf/er/PapazoglouKB94
+Maurizio Lenzerini,conf/er/BhowmickMNL98
+Ajit K. Patankar,conf/er/NavatheGDL90
+Stanley B. Zdonik,conf/er/WinansD90
+Joachim Schü,conf/er/EderK86
+Doron Rotem,conf/dasfaa/YunH93
+Sushil Jajodia,conf/dasfaa/HofstedeB99
+Douglas W. Cornell,conf/dasfaa/FujisawaKKK91
+Valeria De Antonellis,conf/dasfaa/KayanU99
+Hector Garcia-Molina,conf/dasfaa/LiuC95
+A. Moon,conf/dasfaa/TanSH89
+Erich J. Neuhold,conf/dasfaa/HatanoQT97
+Chinya V. Ravishankar,conf/dasfaa/FungKL97
+Stanley B. Zdonik,conf/dasfaa/YunK95
+Douglas W. Cornell,conf/dasfaa/PellenkoftGK97
+Erich J. Neuhold,conf/dasfaa/SarreG91
+Bharathi Subramanian,conf/dasfaa/OhmoriH95
+Ling Liu 0001,conf/dasfaa/CheungLK97
+Alle IJbema,conf/dasfaa/SellentinM99
+Ming-Chien Shan,conf/dasfaa/HyotyniemiL91
+Arie Segev,conf/dasfaa/DuongHN93
+Erich J. Neuhold,conf/dasfaa/LoizouP91
+Erich J. Neuhold,conf/dasfaa/PangLO91
+David Farmer,conf/dasfaa/SemeczkoS97
+Arnon Rosenthal,conf/dasfaa/CheineyO95
+Douglas W. Cornell,conf/dasfaa/IllarramendiS91
+Hector Garcia-Molina,conf/dasfaa/LingT95
+Maurizio Lenzerini,conf/dasfaa/SongG93
+Arthur J. Benjamin,conf/dasfaa/HuangC97
+A. Moon,conf/dasfaa/KuwanoKMISY91
+Kelly W. Cartron,conf/dasfaa/LeeS93
+Douglas W. Cornell,conf/dasfaa/LamLW95
+Christian S. Jensen,conf/dasfaa/OhtomoI89
+A. Moon,conf/dasfaa/HuHJ91
+Jeffrey Scott Vitter,conf/dasfaa/RyuL97
+Christine Parent,conf/dasfaa/SungP91
+Maurizio Lenzerini,conf/dasfaa/LimLK99
+Arnon Rosenthal,conf/dasfaa/PoulinH89
+Chinya V. Ravishankar,conf/dasfaa/YangE91
+Joseph E. Urban,conf/dasfaa/KoisoMT99
+A. Moon,conf/dasfaa/WurL99
+Antoni Wolski,conf/dasfaa/LeeKKL93
+Krithi Ramamritham,conf/dasfaa/KanekoKM93
+George P. Copeland,conf/dasfaa/LuT95
+Yang-Chang Hong,conf/dasfaa/KimK93
+Rafael Alonso,conf/dasfaa/NepalRT99
+Albert Croker,conf/dasfaa/XiaFL99
+Yang-Chang Hong,conf/dasfaa/HanL89
+Doron Rotem,conf/dasfaa/SuHP93
+Yang-Chang Hong,conf/dasfaa/ZhaoCPS93
+Kwang-I Yu,conf/dasfaa/KambayashiT91
+Doron Rotem,conf/dasfaa/SonK89
+George P. Copeland,conf/dasfaa/MainoMN93
+Arun N. Swami,conf/dasfaa/ChangL89
+Stanley B. Zdonik,conf/dasfaa/SungL91
+Siu-Lun Au,conf/coopis/KatchaounovJR00
+Li-Yan Yuan,conf/coopis/MunierBB00
+Alle IJbema,conf/coopis/SkytJ00
+David Farmer,conf/coopis/BecksSJ00
+Mohan Kamath,conf/coopis/VonkDGK00
+Jeffrey Scott Vitter,conf/sigmod/ChiuH80
+Arthur J. Benjamin,conf/sigmod/FegarasM95
+Erol Gelenbe,conf/sigmod/BarbaraI94
+Kwang-I Yu,conf/sigmod/RoussopoulosKV95
+Kelly W. Cartron,conf/sigmod/WoelkBJOTU95
+Rafael Alonso,conf/sigmod/LindsayMP87
+Antoni Wolski,conf/sigmod/GoelI96
+Ajit K. Patankar,conf/sigmod/LometS90
+H. C. Du,conf/sigmod/BakkomB75
+Clement T. Yu,conf/sigmod/WelchG75
+Mimi Kao,conf/sigmod/BoralD84
+Bharathi Subramanian,conf/sigmod/SchmidS75
+Jack Milton,conf/sigmod/WedekindZ86
+Arun N. Swami,conf/sigmod/ZhaoDNS98
+Kelly W. Cartron,conf/sigmod/BhideGHJ92
+Danilo Montesi,conf/sigmod/KatzW80
+Erol Gelenbe,conf/sigmod/CareyL89
+Ming-Chien Shan,conf/sigmod/DavulcuFKR99
+Bharathi Subramanian,conf/sigmod/RaoR98
+Kornel Szabo,conf/sigmod/ColbyGLMT96
+Algirdas Avizienis,conf/sigmod/RajagopalanML98
+Michael Stonebraker,conf/sigmod/GravanoGT94
+Doron Rotem,conf/sigmod/AltinelABFSZ99
+Jonathan P. Gilbert,conf/sigmod/GehrkeGRL99
+Maurizio Lenzerini,conf/sigmod/ChrstodoulakisHT86
+Arie Segev,conf/sigmod/RundensteinerCLCZNJLW99
+Erol Gelenbe,conf/sigmod/GardarinM86
+Arnon Rosenthal,conf/sigmod/KemperM90
+Mohan Kamath,conf/sigmod/OhoriBT89
+Christian S. Jensen,conf/sigmod/AcharyaAFZ95
+Danilo Montesi,conf/sigmod/GoldmanGKZ85
+Eric N. Hanson,conf/sigmod/KanthAS98
+Chinya V. Ravishankar,conf/sigmod/BrinkhoffKS93
+Algirdas Avizienis,conf/sigmod/HansenU91
+Joachim Schü,conf/sigmod/JarkeR88
+Joseph E. Urban,conf/sigmod/AgrawalK91
+Krithi Ramamritham,conf/sigmod/Piatetsky-ShapiroC84
+Yang-Chang Hong,conf/sigmod/MeccaAMMS98
+David Farmer,conf/sigmod/AdaliCPS96
+Silvana Castano,conf/sigmod/LiCHH97
+Sushil Jajodia,conf/sigmod/LindsayHM86
+Algirdas Avizienis,conf/sigmod/VitterW99
+Yang-Chang Hong,conf/sigmod/ChangK89
+Sushil Jajodia,conf/sigmod/LouO91
+Mimi Kao,conf/sigmod/El-MasriW79
+Kornel Szabo,conf/sigmod/DintelmanM82
+Arun N. Swami,conf/sigmod/ONeilOW93
+Mohan Kamath,conf/sigmod/AggarwalPWYP99
+Maurizio Lenzerini,conf/sigmod/KatzCB86
+Kornel Szabo,conf/sigmod/MotroY90
+Antoni Wolski,conf/sigmod/LeuchnerMS88
+Masao Sakauchi,conf/sigmod/StearnsR81
+Clement T. Yu,conf/sigmod/AgrawalW00
+Alle IJbema,conf/sigmod/SegevS87
+Rodney P. Zimmerman,conf/sigmod/AdelbergGK95
+A. Moon,conf/sigmod/SeshadriP97
+Bharathi Subramanian,conf/sigmod/DadamKABEGLPW86
+Erol Gelenbe,conf/sigmod/AnkerstBKS99
+Stanley B. Zdonik,conf/sigmod/DohertyHR96
+Joachim Schü,conf/sigmod/WilmsLS83
+Joachim Schü,conf/sigmod/AlexanderC88
+Hector Garcia-Molina,conf/sigmod/AgrawalIS93
+Hector Garcia-Molina,conf/sigmod/StonebrakerFGM93
+Arun N. Swami,conf/sigmod/DayalHL90
+Mohan Kamath,conf/sigmod/HsuI85
+Christine Parent,conf/sigmod/LoCRY93
+David Farmer,conf/sigmod/JaedickeM98
+Valeria De Antonellis,conf/sigmod/ArefBV95
+Jack Milton,conf/sigmod/BeckerSW91
+Rafael Alonso,conf/sigmod/LoR96
+Arun N. Swami,conf/sigmod/TsueiPK97
+George P. Copeland,conf/sigmod/ParkerP80
+Kai-Hau Yeung,conf/sigmod/HellersteinN96
+Hector Garcia-Molina,conf/sigmod/ShuWL83
+Chinya V. Ravishankar,conf/sigmod/KornJF97
+Jonathan P. Gilbert,conf/sigmod/GuhaRS98
+Rafael Alonso,conf/sigmod/ChoSG00
+Daniel Barbará,conf/sigmod/TsurUACMNR98
+Sushil Jajodia,conf/sigmod/CarusoS88
+Paula Furtado,conf/sigmod/BancilhonS80
+Doron Rotem,conf/sigmod/KolodnerW93
+Erol Gelenbe,conf/sigmod/ChenCPPSTM00
+Krithi Ramamritham,conf/sigmod/ShethK93
+Joachim Schü,conf/sigmod/FranklinZ98
+Mimi Kao,conf/sigmod/WoynaCHS93
+Kai-Hau Yeung,conf/sigmod/FrassonE86
+Rafael Alonso,conf/sigmod/VossenB85
+Clement T. Yu,conf/sigmod/CorralMTV00
+David J. DeWitt,conf/sigmod/RoySSB00
+Alle IJbema,conf/sigmod/MatsushitaYHY80
+Erich J. Neuhold,conf/sigmod/FurtadoK77
+Kai-Hau Yeung,conf/sigmod/DeWittGS88
+Chinya V. Ravishankar,conf/sigmod/KornackerSH98
+Victor O. K. Li,conf/sigmod/BatoryM86
+Maurizio Lenzerini,conf/sigmod/SistlaW95
+Eric N. Hanson,conf/sigmod/CopelandK85
+Arnon Rosenthal,conf/sigmod/ChristophidesCM96
+Ling Liu 0001,conf/sigmod/HongJC93
+Kelly W. Cartron,conf/sigmod/MotroB81
+Albert Croker,conf/sigmod/GibbonsM98
+Michael Stonebraker,conf/sigmod/SunKN89
+Hector Garcia-Molina,conf/sigmod/PolyzoisG92
+George P. Copeland,conf/sigmod/LometS89
+Christian S. Jensen,conf/sigmod/CareyFLS91
+Albert Croker,conf/sigmod/ChangF80
+Jack Milton,conf/sigmod/NavatheM75
+Jeffrey Scott Vitter,conf/sigmod/RichardsonLM87
+Rodney P. Zimmerman,conf/sigmod/NgLHP98
+Christine Parent,conf/sigmod/KolodnerLW89
+Kelly W. Cartron,conf/sigmod/KiernanMS90
+David J. DeWitt,conf/sigmod/IvesFFLW99
+Alle IJbema,conf/sigmod/BadrinathR90
+Victor O. K. Li,conf/sigmod/AboulnagaC99
+Krithi Ramamritham,conf/sigmod/NatsevRS99
+Joachim Schü,conf/sigmod/HellersteinA00
+Danilo Montesi,conf/sigmod/DeshpandeRSN98
+Kwang-I Yu,conf/sigmod/AcharyaB85
+Krithi Ramamritham,conf/sigmod/GeneserethKD97
+Christian S. Jensen,conf/sigmod/CluetD92
+Victor O. K. Li,conf/sigmod/CammarataRS89
+Albert Croker,conf/sigmod/RoussopoulosL85
+George P. Copeland,conf/sigmod/ZhangRL96
+Victor O. K. Li,conf/sigmod/JarkeS82
+Michael Stonebraker,conf/sigmod/CeriNP82
+Li-Yan Yuan,conf/sigmod/MossGG86
+Yang-Chang Hong,conf/sigmod/HouZ95
+Kai-Hau Yeung,conf/popl/CasanovaB79
+Masao Sakauchi,conf/vldb/GhandeharizadehD90
+Mimi Kao,conf/vldb/LiRW87
+Rafael Alonso,conf/vldb/VriesDBA99
+Ling Liu 0001,conf/vldb/RoweS87
+Jack Milton,conf/vldb/AspnesFLMW88
+Silvana Castano,conf/vldb/BarjaPFWD94
+Hector Garcia-Molina,conf/vldb/LacroixL87
+Erich J. Neuhold,conf/vldb/EggersS80
+Ming-Chien Shan,conf/vldb/DrewKH90
+Clement T. Yu,conf/vldb/PoulovassilisS93
+Chinya V. Ravishankar,conf/vldb/McKennaBHT96
+Jeffrey Scott Vitter,conf/vldb/LuSL95
+Erol Gelenbe,conf/vldb/VenkataramanZ98
+Jeffrey Scott Vitter,conf/vldb/ShanmugasundaramGTZDN99
+Bharathi Subramanian,conf/vldb/GravanoG97
+Ming-Chien Shan,conf/vldb/BeechF83
+Masao Sakauchi,conf/vldb/AfsarmaneshMKP85
+Bharathi Subramanian,conf/vldb/BrzezinskiGRS84
+Clement T. Yu,conf/vldb/HouselWY79
+Joseph E. Urban,conf/vldb/TamuraK99
+Alle IJbema,conf/vldb/ChouD85
+Kai-Hau Yeung,conf/vldb/WoelkK87
+Arie Segev,conf/vldb/HultenS77
+Algirdas Avizienis,conf/vldb/KerschbergKT76
+David J. DeWitt,conf/vldb/RothermelM89
+Doron Rotem,conf/vldb/ChenY77
+Erich J. Neuhold,conf/vldb/PistorA86
+Hector Garcia-Molina,conf/vldb/HardjonoS90
+Eric N. Hanson,conf/vldb/UdagawaM86
+Chinya V. Ravishankar,conf/vldb/MenasceL80
+Christian S. Jensen,conf/vldb/LohmanDHKS84
+Stanley B. Zdonik,conf/vldb/GaasterlandL94
+Sushil Jajodia,conf/vldb/FaloutsosJS97
+Erol Gelenbe,conf/vldb/MeoPC96
+A. Moon,conf/vldb/KambayashiTY77
+Siu-Lun Au,conf/vldb/SeegerK88
+A. Moon,conf/vldb/MumickPR90
+Jonathan P. Gilbert,conf/vldb/KonigW99
+Jack Milton,conf/vldb/CremersD83
+Sushil Jajodia,conf/vldb/AmielBDS94
+Lijuan Li,conf/vldb/CareyS84
+Michael Stonebraker,conf/vldb/ChaudhuriGS95
+Bharathi Subramanian,conf/vldb/IdrisGC94
+Asit Dan,conf/vldb/NinkHR99
+Jack Milton,conf/vldb/GuptaWJ91
+Valeria De Antonellis,conf/vldb/GrayLPT75
+Clement T. Yu,conf/vldb/KietzRS97
+Paula Furtado,conf/vldb/JagadishQ92
+Ling Liu 0001,conf/vldb/BittonDT83
+Algirdas Avizienis,conf/vldb/ShekarSD88
+Arthur J. Benjamin,conf/vldb/ErbeW76
+Jeffrey Scott Vitter,conf/vldb/GarciaLL98
+H. V. Jagadish,conf/vldb/LiC94
+Daniel Barbará,conf/vldb/BelloDDFNSWZ98
+Daniel F. Lieuwen,conf/vldb/AdibaCE78
+Stanley B. Zdonik,conf/vldb/KiesslingL83
+Kelly W. Cartron,conf/vldb/GhoshCMW79
+Algirdas Avizienis,conf/vldb/NoerrW76
+Jack Milton,conf/vldb/BeeriO81
+Jonathan P. Gilbert,conf/vldb/KimC88
+Danilo Montesi,conf/vldb/MehtaD95
+Sushil Jajodia,conf/vldb/AbbottM88
+Valeria De Antonellis,conf/vldb/IoannidisP99
+Albert Croker,conf/vldb/WhangN87
+Christine Parent,conf/vldb/MartinC94
+A. Moon,conf/vldb/AgrawalGIIS92
+Joachim Schü,conf/vldb/BoralR85
+Rodney P. Zimmerman,conf/vldb/BernsteinHSSZ97
+Clement T. Yu,conf/vldb/AgarwalADGNRS96
+Arnon Rosenthal,conf/vldb/MackertL86
+George P. Copeland,conf/vldb/GibbonsMP97
+H. V. Jagadish,conf/vldb/ZurekS99
+Mimi Kao,conf/vldb/NguyenR87
+David Farmer,conf/vldb/AgrawalJ90
+Yang-Chang Hong,conf/vldb/TohKS77
+Albert Croker,conf/vldb/BhargavaB90
+Alle IJbema,conf/vldb/SrivastavaRSS93
+Bharathi Subramanian,conf/vldb/LinSS75
+Joachim Schü,conf/vldb/KingM84
+Stanley B. Zdonik,conf/vldb/GeyM75
+Jeffrey Scott Vitter,conf/vldb/HealeyH75
+Daniel Barbará,conf/vldb/DelisR92
+H. C. Du,conf/vldb/AgrawalJ89
+Bharathi Subramanian,conf/vldb/GraefeBC98
+Stanley B. Zdonik,conf/vldb/WongK82
+Kelly W. Cartron,conf/vldb/StonebrakerR84
+Daniel F. Lieuwen,conf/vldb/StaudtJ96
+Christian S. Jensen,conf/vldb/LeilichSZ78
+Mohan Kamath,conf/vldb/ChenR93
+Douglas W. Cornell,conf/vldb/YaoM75
+Joseph E. Urban,conf/vldb/SchroederKGB75
+Arnon Rosenthal,conf/vldb/ChengGKLLQS99
+George P. Copeland,conf/vldb/BussolatiM81
+Jack Milton,conf/vldb/SpathS77
+Douglas W. Cornell,conf/vldb/DeutschC80
+A. Moon,conf/vldb/FukudaMMT96
+Paula Furtado,conf/vldb/BouzeghoubM91
+George P. Copeland,conf/vldb/BancilhonS81
+Maurizio Lenzerini,conf/vldb/HuberL78
+Asit Dan,conf/vldb/SubietaMSR93
+George P. Copeland,conf/vldb/KramerLS92
+Kornel Szabo,conf/vldb/StonebrakerR77
+Daniel F. Lieuwen,conf/vldb/LeslieJBY95
+Kai-Hau Yeung,conf/vldb/LevyS93
+Paula Furtado,conf/vldb/AgrawalCL91
+Albert Croker,conf/vldb/PonceletTCL93
+Jonathan P. Gilbert,conf/vldb/BuckleyS83
+Jonathan P. Gilbert,conf/vldb/GravanoG95
+Siu-Lun Au,conf/vldb/SteinbrunnPMK95
+Ming-Chien Shan,conf/vldb/JagadishNSSK97
+Li-Yan Yuan,conf/vldb/GingrasL98
+Kai-Hau Yeung,conf/vldb/ChenRS95
+Doron Rotem,conf/vldb/RamakrishnanSS90
+Ling Liu 0001,conf/vldb/BrodieS78
+Rafael Alonso,conf/vldb/DiwanRSS96
+Asit Dan,conf/vldb/WhangWS81
+Douglas W. Cornell,conf/vldb/StonebrakerKPO88
+Ming-Chien Shan,conf/vldb/HasseW91
+George P. Copeland,conf/vldb/SubietaR87
+H. V. Jagadish,conf/vldb/WienerN94
+Arun N. Swami,conf/vldb/HasanM95
+Eric N. Hanson,conf/vldb/KlopproggeL83
+David Farmer,conf/vldb/AbiteboulACEMM99
+David J. DeWitt,conf/vldb/MarkowitzM87
+Hector Garcia-Molina,conf/vldb/CochinwalaB94
+Lijuan Li,conf/vldb/IbarakiKM83
+Arnon Rosenthal,conf/vldb/BerckenS96
+Antoni Wolski,conf/vldb/GottlobZ88
+Victor O. K. Li,conf/vldb/JajodiaM87
+Jeffrey Scott Vitter,conf/vldb/BonczRK98
+Rafael Alonso,conf/vldb/RysNS96
+Kelly W. Cartron,conf/vldb/SaccaW83
+Chinya V. Ravishankar,conf/vldb/AoshimaIMSY90
+Antoni Wolski,conf/vldb/MuroIMH83
+Arnon Rosenthal,conf/vldb/DiasIRY87
+Kai-Hau Yeung,conf/vldb/AttieSSR93
+Rodney P. Zimmerman,conf/vldb/JunetFL86
+Daniel Barbará,conf/vldb/SullivanS91
+Erich J. Neuhold,conf/vldb/LuqueRRB79
+Kai-Hau Yeung,conf/vldb/SavasereON95
+Siu-Lun Au,conf/vldb/GonnetT87
+Daniel Barbará,conf/vldb/HubbardR75
+Albert Croker,conf/vldb/ThompsonRTS83
+Erol Gelenbe,conf/vldb/AbiteboulV84
+Joseph E. Urban,conf/vldb/DayalHL91
+Rodney P. Zimmerman,conf/vldb/KingN89
+Hector Garcia-Molina,conf/vldb/EpsteinS80
+H. V. Jagadish,conf/vldb/AdibaQ86
+Mimi Kao,conf/vldb/GinsburgT84
+George P. Copeland,conf/vldb/OzkarahanO78
+A. Moon,conf/vldb/PoulovassilisS94
+Krithi Ramamritham,conf/vldb/CareyK98
+Kornel Szabo,conf/vldb/ShoshaniB75
+Erol Gelenbe,conf/vldb/KumarRRT99
+George P. Copeland,conf/vldb/SevcikK96
+Maurizio Lenzerini,conf/vldb/BernsteinD94
+Silvana Castano,conf/vldb/ChristodoulakisTZ97
+Arie Segev,conf/vldb/LevyRO96
+Ajit K. Patankar,conf/pods/KoutsoupiasT98
+Danilo Montesi,conf/pods/LevyS95
+Lijuan Li,conf/pods/BunemanDW88
+Sushil Jajodia,conf/pods/AbiteboulB84
+Erol Gelenbe,conf/pods/RastogiMBKS93
+Daniel Barbará,conf/pods/GeertsK00
+Clement T. Yu,conf/pods/PageP85
+Antoni Wolski,conf/pods/ArenasBC99
+Eric N. Hanson,conf/pods/HullS88
+Lijuan Li,conf/pods/AtzeniM97
+George P. Copeland,conf/pods/SoparkarS90
+Bharathi Subramanian,conf/pods/GrumbachS94
+Douglas W. Cornell,conf/pods/BuckleyS84
+Bharathi Subramanian,conf/pods/GoodmanS85
+Alle IJbema,conf/pods/ImielinskiV89
+Erich J. Neuhold,conf/pods/BenediktL98
+H. C. Du,conf/pods/SmithLCJ98
+Paula Furtado,conf/pods/BunemanFW99
+David J. DeWitt,conf/pods/RamakrishnanBK88
+Ling Liu 0001,conf/pods/ImielinskiN88
+Erol Gelenbe,conf/pods/KleinbergT99
+Alle IJbema,conf/pods/AgrawalBAK94
+Herman Lam,conf/pods/Abdel-GhaffarA90
+Albert Croker,conf/pods/GyssensP84
+Albert Croker,conf/pods/BeeriR87
+Victor O. K. Li,conf/pods/ChenW93
+Bharathi Subramanian,conf/pods/HerlihyW88
+David J. DeWitt,conf/pods/PicouetV95
+Christian S. Jensen,conf/pods/GrumbachV91
+Valeria De Antonellis,conf/pods/FanS00
+Siu-Lun Au,conf/pods/ArefS90
+Lijuan Li,conf/pods/MalvestutoMR91
+Yang-Chang Hong,conf/pods/KumarRRSTU00
+Kornel Szabo,conf/pods/ReissPD82
+Arnon Rosenthal,conf/pods/AtzeniC85
+H. C. Du,conf/pods/EiterGM94
+Kornel Szabo,conf/pods/BeeriRSS92
+Arie Segev,conf/pods/KanellakisP82
+Masao Sakauchi,conf/pods/BenediktL99
+Jeffrey Scott Vitter,conf/pods/BiskupBSK86
+H. C. Du,conf/pods/RastogiKS93
+Alle IJbema,conf/pods/MumickFPR90
+Danilo Montesi,conf/pods/FordC84
+H. V. Jagadish,conf/pods/JagadishMM95
+Doron Rotem,conf/pods/GrumbachT00
+H. C. Du,conf/pods/MunroP83
+Douglas W. Cornell,conf/pods/Garcia-MolinaS91
+Daniel Barbará,conf/pods/Al-HoumailyC99
+Alle IJbema,conf/pods/OzsoyogluY85
+Li-Yan Yuan,conf/pods/CiacciaPZ98
+Erich J. Neuhold,conf/pods/MuralikrishnaD88
+Siu-Lun Au,conf/pods/MaierV93
+Eric N. Hanson,conf/pods/PapadimitriouY97
+Kornel Szabo,conf/pods/StuckeyS94
+Bharathi Subramanian,conf/pods/GoodmanS82
+H. C. Du,conf/pods/LevyS92
+Valeria De Antonellis,conf/pods/MaierUV83
+Lijuan Li,conf/pods/KabanzaSW90
+Sushil Jajodia,conf/pods/SeshadriN91
+Ajit K. Patankar,conf/pods/ChaudhuriV92
+David Farmer,conf/pods/GrahamGS84
+David Farmer,conf/pods/PapadiasMT99
+Jack Milton,conf/pods/KedemT89
+Bharathi Subramanian,conf/pods/SeibL91
+Lijuan Li,conf/pods/BeeriK83
+Krithi Ramamritham,conf/pods/GrahamM82
+Victor O. K. Li,conf/pods/PapakonstantinouV00
+Jeffrey Scott Vitter,conf/pdis/TulshibagwalePMTP94
+Eric N. Hanson,conf/pdis/ChoiIKL94
+Paula Furtado,conf/pdis/PattersonG94
+Lijuan Li,conf/edbt/BunemanDK92
+George P. Copeland,conf/edbt/DeckerTU96
+Clement T. Yu,conf/edbt/GuptaJM96
+Erol Gelenbe,conf/edbt/KarlssonLR96
+Chinya V. Ravishankar,conf/edbt/MorsiNS94
+Arun N. Swami,conf/edbt/SrikantA96
+Douglas W. Cornell,conf/edbt/BelcastroDKKMMMSST88
+Kwang-I Yu,conf/edbt/BerchtoldBK98
+Asit Dan,conf/edbt/BohmK00
+Mohan Kamath,conf/edbt/MeoPC96
+Valeria De Antonellis,conf/edbt/CasatiCPP96
+Kornel Szabo,conf/edbt/BertinoRT88
+Erich J. Neuhold,conf/edbt/DarGJ92
+Yang-Chang Hong,conf/edbt/FukudaM98
+Eric N. Hanson,conf/edbt/ChenR94a
+A. Moon,conf/edbt/AntunesBCLS90
+Asit Dan,conf/edbt/AtzeniMM98
+Daniel F. Lieuwen,conf/edbt/BertinoCS98
+Rodney P. Zimmerman,conf/edbt/SimmenSM96
+Albert Croker,conf/edbt/LiuC96
+Herman Lam,conf/edbt/ChenMLLF96
+Jonathan P. Gilbert,conf/edbt/KamathAGM96
+Yang-Chang Hong,conf/edbt/FrankON92
+Maurizio Lenzerini,conf/edbt/PramanikKV92
+H. V. Jagadish,conf/edbt/KotzDM88
+Ming-Chien Shan,conf/edbt/ChenD96
+Michael Stonebraker,conf/edbt/PlexousakisM96
+Siu-Lun Au,conf/edbt/BarbaraGP90
+George P. Copeland,conf/edbt/BohlenCST96
+Hector Garcia-Molina,conf/edbt/PoulovassilisK90
+Lijuan Li,conf/edbt/BoberC94
+Maurizio Lenzerini,conf/edbt/CiacciaPZ98
+Herman Lam,conf/edbt/AgrawalGL98
+Antoni Wolski,conf/edbt/SaccaVV92
+David Farmer,conf/edbt/KoskyCMS98
+Arie Segev,conf/edbt/AlbanoACO88
+Jeffrey Scott Vitter,conf/edbt/FlescaG00
+Kai-Hau Yeung,conf/edbt/SarawagiAM98
+Kelly W. Cartron,conf/edbt/GobleOCIOX92
+Ajit K. Patankar,conf/edbt/PetrouniasL94
+George P. Copeland,conf/dolap/KoellerRH98
+Lijuan Li,conf/dolap/MangisengiT98
+Silvana Castano,conf/dolap/BoehnleinE99
+Valeria De Antonellis,conf/mfdbs/RulandS87
+Lijuan Li,conf/mfdbs/LeeF91
+Clement T. Yu,conf/mfdbs/LakhalCM89
+Christine Parent,conf/mfdbs/BondavalliFLV89
+Christian S. Jensen,conf/mfdbs/MalyutaPS89
+Alle IJbema,conf/mfdbs/BiskupB87
+Michael Stonebraker,conf/dbpl/ShawZ89
+David Farmer,conf/dbpl/DongS91
+Paula Furtado,conf/dbpl/DongS93
+Douglas W. Cornell,conf/dbpl/MullenE93
+Mohan Kamath,conf/dbpl/LaaschS93
+Hector Garcia-Molina,conf/dbpl/DearleRV91
+Herman Lam,conf/dbpl/LingatR89
+Victor O. K. Li,conf/dbpl/RozenS91
+H. C. Du,conf/dbpl/ChenKW89
+Ming-Chien Shan,conf/dl/CrabtreeTON97
+Kai-Hau Yeung,conf/dl/VoorheesT97
+Rodney P. Zimmerman,conf/dl/WitbrockH97
+Ming-Chien Shan,conf/dl/Arnold-MooreAS97
+Christine Parent,conf/dl/ChristelWT97
+Albert Croker,conf/ssdbm/ChangC88
+Algirdas Avizienis,conf/ssdbm/RafanelliS90
+Herman Lam,conf/ssdbm/BuurenMB94
+Algirdas Avizienis,conf/ssdbm/HinkeRKGR97
+Christian S. Jensen,conf/ssdbm/HinterbergerMG94
+Masao Sakauchi,conf/ssdbm/AndersonSRT83
+Yang-Chang Hong,conf/ssdbm/OzsoyogluHO90
+Arthur J. Benjamin,conf/ssdbm/LiW96
+Christian S. Jensen,conf/ssdbm/BarcaroliBFL88
+Maurizio Lenzerini,conf/ssdbm/WeeksWS81
+Paula Furtado,conf/ssdbm/ChaudhuryMR94
+Jonathan P. Gilbert,conf/ssdbm/GellerE97
+Masao Sakauchi,conf/ssdbm/CatarciS90
+Siu-Lun Au,conf/ssdbm/LongB83
+Lijuan Li,conf/ssdbm/NittelMM97
+Silvana Castano,conf/ssdbm/OberweisS94
+Mohan Kamath,conf/ssdbm/BezenchekRT96
+Maurizio Lenzerini,conf/ssdbm/SeamonsW94
+Michael Stonebraker,conf/ssdbm/ButlerI90
+Alle IJbema,conf/ssdbm/TheodoridisSPM98
+Li-Yan Yuan,conf/ssdbm/LehnerAW98
+Yang-Chang Hong,conf/ssdbm/StiberJS97
+Arnon Rosenthal,conf/ssdbm/CabralF94
+Siu-Lun Au,conf/ssdbm/OzsoyogluOV94
+Paula Furtado,conf/ssdbm/SegevS88
+Ling Liu 0001,conf/ssdbm/RafanelliR90
+Kai-Hau Yeung,conf/ssdbm/KellyC94
+Hector Garcia-Molina,conf/ssdbm/StamateLP94
+Erich J. Neuhold,conf/ssdbm/HachemBT96
+Daniel F. Lieuwen,conf/icdt/BarbackLL92
+Rodney P. Zimmerman,conf/icdt/KiferL88
+Li-Yan Yuan,conf/icdt/GrahneSS97
+Ming-Chien Shan,conf/icdt/MoerkotteK88
+Sushil Jajodia,conf/icdt/Galindo-LegariaPK95
+H. V. Jagadish,conf/icdt/WoodMA88
+Albert Croker,conf/icdt/KuperV88
+Eric N. Hanson,conf/icdt/FernandezSW01
+Jack Milton,conf/icdt/KarabegV88
+David Farmer,conf/icdt/VingralekYBS95
+George P. Copeland,conf/icdt/SaccaZ86
+Erol Gelenbe,conf/icdt/SalzaBM95
+Lijuan Li,conf/icdt/WeddellC90
+Masao Sakauchi,conf/icdt/LiS88
+Ling Liu 0001,conf/icdt/LifschitzV95
+Ling Liu 0001,conf/icdt/AsirelliIM88
+Siu-Lun Au,conf/icdt/AggarwalHK01
+Siu-Lun Au,conf/icdt/LiC01
+Arun N. Swami,conf/icdt/GrahneM99
+H. C. Du,conf/icdt/FabretRS92
+Arnon Rosenthal,conf/icdt/LynchMWF88
+Arthur J. Benjamin,conf/icdt/BenediktK97
+Jeffrey Scott Vitter,conf/icdt/KivinenM92
+Danilo Montesi,conf/icdt/ColbyL97
+H. V. Jagadish,conf/icdt/GrumbachT92
+Valeria De Antonellis,conf/icdt/YuL95
+Michael Stonebraker,conf/cikm/BrunstromLS95
+Paula Furtado,conf/cikm/TangV95
+Algirdas Avizienis,conf/cikm/YoonSP95
+H. V. Jagadish,conf/cikm/BuvacF95
+Erol Gelenbe,conf/cikm/ParkCY95
+Michael Stonebraker,conf/adbis/BogachevaER95
+Herman Lam,conf/adbis/GalvezGAC99
+Erich J. Neuhold,conf/adbis/TranB99
+Clement T. Yu,conf/adbis/BiskupK97
+Danilo Montesi,conf/adbis/BasarabGN95
+H. V. Jagadish,conf/adbis/TzouramanisVM99
+Danilo Montesi,conf/adbis/FriasG95
+Clement T. Yu,conf/adbis/DvorskyPS99
+Daniel Barbará,conf/adbis/CostalSOBPQR97
+Ling Liu 0001,conf/adbis/PlesniewiczM95
+Ming-Chien Shan,conf/adbis/PozewaunigEL97
+Clement T. Yu,conf/adbis/DzegelyonokT94
+Jeffrey Scott Vitter,conf/adbis/MatthesMS96
+Maurizio Lenzerini,conf/adbis/MadriaB97
+Christian S. Jensen,conf/adbis/MenhoudjO96
+H. C. Du,conf/adbis/SchwarzTS98
+Kwang-I Yu,conf/adbis/ZhangH97
+Erol Gelenbe,conf/adbis/EhikioyaB97
+Eric N. Hanson,conf/adbis/BukhresZB97
+Christine Parent,conf/adbis/SalzaBM98
+H. C. Du,conf/adbis/KuroshevPKZ94
+Daniel F. Lieuwen,conf/adbis/CastelliP98
+Lijuan Li,conf/adbis/BogachevaE94
+Chinya V. Ravishankar,conf/adbis/BiscondiFB96
+Arun N. Swami,conf/adbis/EvrendilekDG95
+Albert Croker,conf/adbis/RusinkiewiczS94
+H. C. Du,conf/adbis/JuricWRHBDZ99
+Michael Stonebraker,conf/adbis/KopeckyP97
+Victor O. K. Li,conf/adbis/GriefahnLM97
+Algirdas Avizienis,conf/widm/HohensteinE99
+Kwang-I Yu,conf/widm/YiS99
