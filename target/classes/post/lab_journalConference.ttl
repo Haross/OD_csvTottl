@@ -1,32 +1,32 @@
 @prefix test:  <http://localhost:8890/research#> .
 
-test:Journal4  a  test:Journal ;
+test:Conference4  a  test:Conference ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Future Generation Comp. Syst." ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:OpenAccessJournal .
+                test:DatabaseConference .
 
 test:Conference2  a  test:Conference ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Machine learning sc." ;
+                "Computers in Industry" ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
                 test:DatabaseConference .
 
 test:Journal2  a  test:Journal ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Web Intelligence and Agent Systems" ;
+                "Machine learning sc." ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
                 test:OpenAccessJournal .
 
-test:Journal3  a  test:Journal ;
+test:Conference3  a  test:Conference ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Data Science" ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:OpenAccessJournal .
+                test:DatabaseConference .
 
 test:Conference1  a  test:Conference ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Computers in Industry" ;
+                "Web Intelligence and Agent Systems" ;
         <http://www.w3.org/2000/01/rdf-schema#subClassOf>
                 test:DatabaseConference .
 

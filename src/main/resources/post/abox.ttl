@@ -8,12 +8,12 @@ test:Paula_Furtado  a  test:Reviewer ;
 test:Kwang-I_Yu  a   test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Kwang-I Yu" ;
-        test:review  "paper11" , "paper43" , "paper70" .
+        test:review  "paper70" , "paper11" , "paper43" .
 
 test:Antoni_Wolski  a  test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Antoni Wolski" ;
-        test:review  "paper66" , "paper5" , "paper44" .
+        test:review  "paper44" , "paper5" , "paper66" .
 
 test:Michael_Stonebraker
         a            test:Reviewer ;
@@ -24,13 +24,13 @@ test:Michael_Stonebraker
 test:Li-Yan_Yuan  a  test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Li-Yan Yuan" ;
-        test:review  "paper62" , "paper58" , "paper45" , "paper25" , "paper57" .
+        test:review  "paper25" , "paper45" , "paper57" , "paper62" , "paper58" .
 
 test:Bharathi_Subramanian
         a            test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Bharathi Subramanian" ;
-        test:review  "paper30" , "paper23" .
+        test:review  "paper23" , "paper30" .
 
 test:David_Farmer  a  test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
@@ -58,7 +58,7 @@ test:Kelly_W._Cartron
         a            test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Kelly W. Cartron" ;
-        test:review  "paper7" , "paper48" , "paper68" , "paper36" .
+        test:review  "paper68" , "paper7" , "paper48" , "paper36" .
 
 test:Alle_IJbema  a  test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
@@ -73,73 +73,73 @@ test:Ling_Liu_0001  a  test:Reviewer ;
 test:Eric_N._Hanson  a  test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Eric N. Hanson" ;
-        test:review  "paper37" , "paper35" , "paper28" .
+        test:review  "paper35" , "paper28" , "paper37" .
 
 test:Maurizio_Lenzerini
         a            test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Maurizio Lenzerini" ;
-        test:review  "paper42" , "paper17" , "paper2" .
+        test:review  "paper2" , "paper17" , "paper42" .
 
 test:Christian_S._Jensen
         a            test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Christian S. Jensen" ;
-        test:review  "paper75" , "paper2" .
+        test:review  "paper2" , "paper75" .
 
 test:Stanley_B._Zdonik
         a            test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Stanley B. Zdonik" ;
-        test:review  "paper20" , "paper78" , "paper56" , "paper79" , "paper64" .
+        test:review  "paper79" , "paper64" , "paper78" , "paper20" , "paper56" .
 
 test:Siu-Lun_Au  a   test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Siu-Lun Au" ;
-        test:review  "paper6" , "paper70" .
+        test:review  "paper70" , "paper6" .
 
 test:Douglas_W._Cornell
         a            test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Douglas W. Cornell" ;
-        test:review  "paper44" , "paper41" , "paper51" , "paper65" , "paper55" .
+        test:review  "paper51" , "paper55" , "paper44" , "paper65" , "paper41" .
 
 test:Yang-Chang_Hong  a  test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Yang-Chang Hong" ;
-        test:review  "paper1" , "paper10" , "paper48" .
+        test:review  "paper48" , "paper1" , "paper10" .
 
 test:Jeffrey_Scott_Vitter
         a            test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Jeffrey Scott Vitter" ;
-        test:review  "paper74" , "paper58" .
+        test:review  "paper58" , "paper74" .
 
 test:Daniel_Barbará  a  test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Daniel Barbará" ;
-        test:review  "paper59" , "paper74" .
+        test:review  "paper74" , "paper59" .
 
 test:Herman_Lam  a   test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Herman Lam" ;
-        test:review  "paper27" , "paper18" .
+        test:review  "paper18" , "paper27" .
 
 test:Lijuan_Li  a    test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Lijuan Li" ;
-        test:review  "paper19" , "paper31" , "paper25" , "paper10" , "paper60" , "paper40" , "paper52" , "paper53" , "paper71" , "paper72" .
+        test:review  "paper19" , "paper25" , "paper31" , "paper10" , "paper60" , "paper40" , "paper52" , "paper53" , "paper71" , "paper72" .
 
 test:Christine_Parent
         a            test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Christine Parent" ;
-        test:review  "paper73" , "paper43" , "paper20" , "paper56" , "paper31" , "paper12" .
+        test:review  "paper20" , "paper73" , "paper31" , "paper56" , "paper12" , "paper43" .
 
 test:Doron_Rotem  a  test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Doron Rotem" ;
-        test:review  "paper16" , "paper50" , "paper22" , "paper77" .
+        test:review  "paper77" , "paper22" , "paper16" , "paper50" .
 
 test:Daniel_F._Lieuwen
         a            test:Reviewer ;
@@ -150,29 +150,29 @@ test:Daniel_F._Lieuwen
 test:Silvana_Castano  a  test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Silvana Castano" ;
-        test:review  "paper37" , "paper38" , "paper3" , "paper19" .
+        test:review  "paper3" , "paper19" , "paper38" , "paper37" .
 
 test:H._V._Jagadish  a  test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "H. V. Jagadish" ;
-        test:review  "paper30" , "paper80" , "paper56" , "paper19" .
+        test:review  "paper56" , "paper19" , "paper30" , "paper80" .
 
 test:Algirdas_Avizienis
         a            test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Algirdas Avizienis" ;
-        test:review  "paper17" , "paper20" , "paper80" , "paper74" , "paper49" , "paper76" , "paper77" .
-
-test:Mimi_Kao  a     test:Reviewer ;
-        <http://www.w3.org/2000/01/rdf-schema#label>
-                "Mimi Kao" ;
-        test:review  "paper55" , "paper26" , "paper46" , "paper28" .
+        test:review  "paper74" , "paper49" , "paper76" , "paper77" , "paper17" , "paper20" , "paper80" .
 
 test:Krithi_Ramamritham
         a            test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Krithi Ramamritham" ;
         test:review  "paper8" .
+
+test:Mimi_Kao  a     test:Reviewer ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mimi Kao" ;
+        test:review  "paper28" , "paper55" , "paper26" , "paper46" .
 
 test:Valeria_De_Antonellis
         a            test:Reviewer ;
@@ -183,12 +183,12 @@ test:Valeria_De_Antonellis
 test:Arun_N._Swami  a  test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Arun N. Swami" ;
-        test:review  "paper52" , "paper27" , "paper73" , "paper34" .
+        test:review  "paper34" , "paper73" , "paper27" , "paper52" .
 
 test:A._Moon  a      test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "A. Moon" ;
-        test:review  "paper72" , "paper59" , "paper63" , "paper44" , "paper67" .
+        test:review  "paper63" , "paper44" , "paper67" , "paper72" , "paper59" .
 
 test:Masao_Sakauchi  a  test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
@@ -208,635 +208,463 @@ test:Rafael_Alonso  a  test:Reviewer ;
 test:Jack_Milton  a  test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Jack Milton" ;
-        test:review  "paper76" , "paper15" , "paper57" .
+        test:review  "paper15" , "paper57" , "paper76" .
 
 test:Ming-Chien_Shan  a  test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Ming-Chien Shan" ;
-        test:review  "paper6" , "paper64" , "paper24" , "paper26" .
+        test:review  "paper64" , "paper24" , "paper6" , "paper26" .
 
 test:George_P._Copeland
         a            test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "George P. Copeland" ;
-        test:review  "paper61" , "paper5" , "paper15" , "paper69" , "paper14" .
+        test:review  "paper14" , "paper69" , "paper61" , "paper5" , "paper15" .
 
 test:Danilo_Montesi  a  test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Danilo Montesi" ;
-        test:review  "paper37" , "paper25" .
+        test:review  "paper25" , "paper37" .
 
 test:Rodney_P._Zimmerman
         a            test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Rodney P. Zimmerman" ;
-        test:review  "paper29" , "paper4" , "paper16" , "paper67" .
+        test:review  "paper67" , "paper4" , "paper16" , "paper29" .
 
 test:Erol_Gelenbe  a  test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Erol Gelenbe" ;
-        test:review  "paper32" , "paper46" , "paper55" , "paper9" .
+        test:review  "paper55" , "paper9" , "paper32" , "paper46" .
 
 test:Clement_T._Yu  a  test:Reviewer ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Clement T. Yu" ;
         test:review  "paper3" .
 
-test:paper32  a          test:Paper ;
+test:paper32  a          test:ShortPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:ShortPaper ;
         test:publish_in  "Journal1" .
 
-test:paper73  a          test:Paper ;
+test:paper73  a          test:SurveyPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "What is Failure? An Approach to Constructive Negation" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:SurveyPaper ;
         test:publish_in  "Conference1" .
 
-test:paper45  a          test:Paper ;
+test:paper45  a          test:SurveyPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "On Efficient Entreeings" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:SurveyPaper ;
         test:publish_in  "Conference1" .
 
-test:paper17  a          test:Paper ;
+test:paper17  a          test:SurveyPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "A Workload Model Representative of Static and Dynamic Characteristics" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:SurveyPaper ;
         test:publish_in  "Conference4" .
 
-test:paper58  a          test:Paper ;
+test:paper58  a          test:DemoPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Worst Case Performance of Weighted Buddy Systems" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DemoPaper ;
         test:publish_in  "Conference2" .
 
-test:paper11  a          test:Paper ;
+test:paper11  a          test:FullPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Merged processes: a new condensed representation of Petri net behaviour" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:FullPaper ;
         test:publish_in  "Conference1" .
 
-test:paper80  a          test:Paper ;
+test:paper80  a          test:SurveyPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Another Polynomial Homomorphism" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:SurveyPaper ;
         test:publish_in  "Conference1" .
 
-test:paper52  a          test:Paper ;
+test:paper52  a          test:ShortPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Modelling higher-order dual nondeterminacy" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:ShortPaper ;
         test:publish_in  "Conference2" .
 
-test:paper24  a          test:Paper ;
+test:paper24  a          test:DemoPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Maximum Entropy and the" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DemoPaper ;
         test:publish_in  "Conference4" .
 
-test:paper65  a          test:Paper ;
+test:paper65  a          test:DemoPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Domain Independence and the Relational Calculus" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DemoPaper ;
         test:publish_in  "Journal2" .
 
-test:paper6  a           test:Paper ;
+test:paper6  a           test:DemoPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "A characterization of rational D0L power series" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DemoPaper ;
         test:publish_in  "Conference4" .
 
-test:paper37  a          test:Paper ;
+test:paper37  a          test:SurveyPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Special issue on \"Combining Compositionality and Concurrency\": part 1" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:SurveyPaper ;
         test:publish_in  "Conference2" .
 
-test:paper78  a          test:Paper ;
+test:paper78  a          test:ShortPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Probabilistic bisimulation for realistic schedulers" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:ShortPaper ;
         test:publish_in  "Conference4" .
 
-test:paper31  a          test:Paper ;
+test:paper31  a          test:SurveyPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "On an Equivalence between Continuation and Stack Semantics" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:SurveyPaper ;
         test:publish_in  "Conference4" .
 
-test:paper72  a          test:Paper ;
+test:paper72  a          test:ShortPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Instruction sequence processing operators" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:ShortPaper ;
         test:publish_in  "Conference2" .
 
-test:paper44  a          test:Paper ;
+test:paper44  a          test:FullPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Parsing Problem for Affix Grammars" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:FullPaper ;
         test:publish_in  "Journal2" .
 
-test:paper16  a          test:Paper ;
+test:paper16  a          test:DemoPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "A Synthesis of Several Sorting Algorithms" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DemoPaper ;
         test:publish_in  "Conference3" .
 
-test:paper57  a          test:Paper ;
+test:paper57  a          test:DemoPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Context-Free Graph Languages of Bounded Degree are Generated by Apex Graph Grammars" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DemoPaper ;
         test:publish_in  "Journal2" .
 
-test:paper29  a          test:Paper ;
+test:paper29  a          test:ShortPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Disjunctivity and other properties of sets of pseudo-bordered words" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:ShortPaper ;
         test:publish_in  "Journal2" .
 
-test:paper10  a          test:Paper ;
+test:paper10  a          test:DemoPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Equational weighted tree transformations" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DemoPaper ;
         test:publish_in  "Conference4" .
 
-test:paper51  a          test:Paper ;
+test:paper51  a          test:ShortPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Complete Parameterized Families of Job Scheduling Strategies" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:ShortPaper ;
         test:publish_in  "Conference3" .
 
-test:paper23  a          test:Paper ;
+test:paper23  a          test:DemoPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "'Invariants" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DemoPaper ;
         test:publish_in  "Conference1" .
 
-test:paper64  a          test:Paper ;
+test:paper64  a          test:FullPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "On Parallel Integer Sorting" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:FullPaper ;
         test:publish_in  "Conference2" .
 
-test:paper5  a           test:Paper ;
+test:paper5  a           test:SurveyPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:SurveyPaper ;
         test:publish_in  "Conference2" .
 
-test:paper36  a          test:Paper ;
+test:paper36  a          test:SurveyPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Compositional Refinements in Multiple Blackboard Systems" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:SurveyPaper ;
         test:publish_in  "Journal1" .
 
-test:paper77  a          test:Paper ;
+test:paper77  a          test:FullPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "A Study of Queueing Networks with Deterministic Service and Application to Computer Networks" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:FullPaper ;
         test:publish_in  "Conference1" .
 
-test:paper49  a          test:Paper ;
+test:paper49  a          test:DemoPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Inductive Completion with Retracts" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DemoPaper ;
         test:publish_in  "Conference1" .
 
-test:paper30  a          test:Paper ;
+test:paper30  a          test:SurveyPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Relational structures model of concurrency" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:SurveyPaper ;
         test:publish_in  "Conference4" .
 
-test:paper71  a          test:Paper ;
+test:paper71  a          test:FullPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Behavioural Approaches to Algebraic Specifications: A Comparative Study" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:FullPaper ;
         test:publish_in  "Journal2" .
 
-test:paper43  a          test:Paper ;
+test:paper43  a          test:ShortPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Behandlung verschiedener INTEGER-Darstellungen durch optimierende Compiler" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:ShortPaper ;
         test:publish_in  "Journal2" .
 
-test:paper15  a          test:Paper ;
+test:paper15  a          test:FullPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Calculi for Interaction" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:FullPaper ;
         test:publish_in  "Conference3" .
 
-test:paper56  a          test:Paper ;
+test:paper56  a          test:DemoPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Compositional schedulability analysis of real-time actor-based systems" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DemoPaper ;
         test:publish_in  "Journal1" .
 
-test:paper28  a          test:Paper ;
+test:paper28  a          test:DemoPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Evolutionary Systems: A Language Generating Device Inspired by Evolving Communities of Cells" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DemoPaper ;
         test:publish_in  "Journal1" .
 
-test:paper69  a          test:Paper ;
+test:paper69  a          test:FullPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Efficient execution of dynamically controllable simple temporal networks with uncertainty" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:FullPaper ;
         test:publish_in  "Journal2" .
 
-test:paper50  a          test:Paper ;
+test:paper50  a          test:SurveyPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Invariant Assertions Methods for Proving Inevitability Properties of Programs" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:SurveyPaper ;
         test:publish_in  "Conference2" .
 
-test:paper22  a          test:Paper ;
+test:paper22  a          test:DemoPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Mathematical Analysis of the Computer System Modeled as a Two Stage Cyclic Queue" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DemoPaper ;
         test:publish_in  "Conference4" .
 
-test:paper63  a          test:Paper ;
+test:paper63  a          test:FullPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Attribute (Re)evaluation in OPTRAN" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:FullPaper ;
         test:publish_in  "Conference2" .
 
-test:paper4  a           test:Paper ;
+test:paper4  a           test:FullPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "On the Power of Chain Rules in Context Free Grammars" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:FullPaper ;
         test:publish_in  "Conference2" .
 
-test:paper35  a          test:Paper ;
+test:paper35  a          test:ShortPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Computational Algorithms for Networks of Queues with Rejection Blocking" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:ShortPaper ;
         test:publish_in  "Conference4" .
 
-test:paper76  a          test:Paper ;
+test:paper76  a          test:SurveyPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "On the Number of Relational Operators Necessary to Compute Certain Functions of Real Variables" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:SurveyPaper ;
         test:publish_in  "Conference2" .
 
-test:paper48  a          test:Paper ;
+test:paper48  a          test:FullPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Functional Behavior in Data Spaces" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:FullPaper ;
         test:publish_in  "Conference1" .
 
-test:paper70  a          test:Paper ;
+test:paper70  a          test:FullPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Minimum Feedback Vertex Sets in Cocomparability Graphs and Convex Bipartite Graphs" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:FullPaper ;
         test:publish_in  "Conference2" .
 
-test:paper42  a          test:Paper ;
+test:paper42  a          test:SurveyPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Best Huffman Trees" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:SurveyPaper ;
         test:publish_in  "Conference3" .
 
-test:paper14  a          test:Paper ;
+test:paper14  a          test:SurveyPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Expressive Power of Delay Operators in SCCS" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:SurveyPaper ;
         test:publish_in  "Journal2" .
 
-test:paper55  a          test:Paper ;
+test:paper55  a          test:FullPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "A Recursive Second Order Initial Algebra Specification of Primitive Recursion" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:FullPaper ;
         test:publish_in  "Conference3" .
 
-test:paper27  a          test:Paper ;
+test:paper27  a          test:FullPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Hex ist PSPACE-vollständig" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:FullPaper ;
         test:publish_in  "Journal1" .
 
-test:paper68  a          test:Paper ;
+test:paper68  a          test:SurveyPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "A Complete Algebraic Characterization of Behavioral Subtyping" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:SurveyPaper ;
         test:publish_in  "Journal2" .
 
-test:paper9  a           test:Paper ;
+test:paper9  a           test:SurveyPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "On the Complementation Rule for Multivalued Dependencies in Database Relations" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:SurveyPaper ;
         test:publish_in  "Conference2" .
 
-test:paper21  a          test:Paper ;
+test:paper21  a          test:ShortPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Least Upper Bound on the Cost of Optimum Binary Search Trees" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:ShortPaper ;
         test:publish_in  "Conference3" .
 
-test:paper62  a          test:Paper ;
+test:paper62  a          test:FullPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Eliminating Unit Productions from LR Parsers" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:FullPaper ;
         test:publish_in  "Journal2" .
 
-test:paper3  a           test:Paper ;
+test:paper3  a           test:ShortPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "NP-complete Problems Simplified on Tree Schemas" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:ShortPaper ;
         test:publish_in  "Journal2" .
 
-test:paper34  a          test:Paper ;
+test:paper34  a          test:ShortPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Time Lower Bounds for Parallel Sorting on a Mesh-Conected Processor Array" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:ShortPaper ;
         test:publish_in  "Conference4" .
 
-test:paper75  a          test:Paper ;
+test:paper75  a          test:FullPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Quad Trees: A Data Structure for Retrieval on Composite Keys" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:FullPaper ;
         test:publish_in  "Conference2" .
 
-test:paper47  a          test:Paper ;
+test:paper47  a          test:SurveyPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Implementing Daubechies Wavelet Transform with Weighted Finite Automata" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:SurveyPaper ;
         test:publish_in  "Journal1" .
 
-test:paper19  a          test:Paper ;
+test:paper19  a          test:SurveyPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Trace- and failure-based semantics for responsiveness" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:SurveyPaper ;
         test:publish_in  "Conference3" .
 
-test:paper41  a          test:Paper ;
+test:paper41  a          test:DemoPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Two Notions of Correctness and Their Relation to Testing" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DemoPaper ;
         test:publish_in  "Conference3" .
 
-test:paper13  a          test:Paper ;
+test:paper13  a          test:DemoPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "A Three-Stage Construction for Multiconnection Networks" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DemoPaper ;
         test:publish_in  "Journal1" .
 
-test:paper54  a          test:Paper ;
+test:paper54  a          test:ShortPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "A Note on Multihead Automata and Context-Sensitive Languages" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:ShortPaper ;
         test:publish_in  "Journal2" .
 
-test:paper26  a          test:Paper ;
+test:paper26  a          test:FullPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "A theory of structural stationarity in the" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:FullPaper ;
         test:publish_in  "Journal1" .
 
-test:paper67  a          test:Paper ;
+test:paper67  a          test:FullPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Bounded Quantification and Relations Recognizable by Finite Automata" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:FullPaper ;
         test:publish_in  "Conference2" .
 
-test:paper8  a           test:Paper ;
+test:paper8  a           test:FullPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Fifo Nets Without Order Deadlock" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:FullPaper ;
         test:publish_in  "Conference2" .
 
-test:paper39  a          test:Paper ;
+test:paper39  a          test:DemoPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "On Removing the Machine from the Language" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DemoPaper ;
         test:publish_in  "Journal2" .
 
-test:paper20  a          test:Paper ;
+test:paper20  a          test:ShortPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Branching Processes in the Analysis of the Heights of Trees" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:ShortPaper ;
         test:publish_in  "Conference3" .
 
-test:paper61  a          test:Paper ;
+test:paper61  a          test:FullPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Applying relation algebra and Rel View to solve problems on orders and lattices" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:FullPaper ;
         test:publish_in  "Conference3" .
 
-test:paper2  a           test:Paper ;
+test:paper2  a           test:ShortPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Pattern Matching in Trees and Nets" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:ShortPaper ;
         test:publish_in  "Conference2" .
 
-test:paper33  a          test:Paper ;
+test:paper33  a          test:DemoPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "A Note on the Density of Inherently Ambiguous Context-free Languages" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DemoPaper ;
         test:publish_in  "Conference1" .
 
-test:paper74  a          test:Paper ;
+test:paper74  a          test:SurveyPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "STG decomposition strategies in combination with unfolding" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:SurveyPaper ;
         test:publish_in  "Conference4" .
 
-test:paper46  a          test:Paper ;
+test:paper46  a          test:SurveyPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Persistence of Vector Replacement Systems is Decidable" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:SurveyPaper ;
         test:publish_in  "Conference3" .
 
-test:paper18  a          test:Paper ;
+test:paper18  a          test:SurveyPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Gray visiting Motzkins" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:SurveyPaper ;
         test:publish_in  "Journal2" .
 
-test:paper59  a          test:Paper ;
+test:paper59  a          test:DemoPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Contextual Nets" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DemoPaper ;
         test:publish_in  "Conference4" .
 
-test:paper40  a          test:Paper ;
+test:paper40  a          test:ShortPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Complete Problems for Space Bounded Subclasses of NP" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:ShortPaper ;
         test:publish_in  "Conference2" .
 
-test:paper12  a          test:Paper ;
+test:paper12  a          test:DemoPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Verifying a simplification of mutual exclusion by Lycklama-Hadzilacos" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DemoPaper ;
         test:publish_in  "Conference3" .
 
-test:paper53  a          test:Paper ;
+test:paper53  a          test:FullPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Dispatcher Primitives for the Construction of Operating System Kernels" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:FullPaper ;
         test:publish_in  "Conference1" .
 
-test:paper25  a          test:Paper ;
+test:paper25  a          test:DemoPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Abstraction and Performance in the Design of Parallel Programs: An Overview of the SAT Approach" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DemoPaper ;
         test:publish_in  "Journal2" .
 
-test:paper66  a          test:Paper ;
+test:paper66  a          test:DemoPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Multi-Granularity Locking for Nested Transactions: A Proof Using a Possibilities Mapping" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DemoPaper ;
         test:publish_in  "Conference3" .
 
-test:paper7  a           test:Paper ;
+test:paper7  a           test:FullPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "The Derivation of Systolic Implementations of Programs" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:FullPaper ;
         test:publish_in  "Conference3" .
 
-test:paper38  a          test:Paper ;
+test:paper38  a          test:ShortPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Automatic verification of concurrent systems using a formula-based compositional approach" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:ShortPaper ;
         test:publish_in  "Conference4" .
 
-test:paper79  a          test:Paper ;
+test:paper79  a          test:DemoPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Explaining the Wheel Sieve" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DemoPaper ;
         test:publish_in  "Conference3" .
 
-test:paper60  a          test:Paper ;
+test:paper60  a          test:DemoPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "COSY - A System Specification Language Based on Paths and Processes" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DemoPaper ;
         test:publish_in  "Journal1" .
 
-test:paper1  a           test:Paper ;
+test:paper1  a           test:SurveyPaper ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Parallel Integer Sorting and Simulation Amongst CRCW Models" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:SurveyPaper ;
         test:publish_in  "Conference3" .
 
-test:Conference4  a  test:Conference ;
+test:Conference4  a  test:Conference , test:DatabaseConference ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Future Generation Comp. Syst." ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DatabaseConference .
+                "Future Generation Comp. Syst." .
 
-test:Conference2  a  test:Conference ;
+test:Conference2  a  test:Conference , test:DatabaseConference ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Computers in Industry" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DatabaseConference .
+                "Computers in Industry" .
 
-test:Journal2  a  test:Journal ;
+test:Journal2  a  test:Journal , test:OpenAccessJournal ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Machine learning sc." ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:OpenAccessJournal .
+                "Machine learning sc." .
 
-test:Conference3  a  test:Conference ;
+test:Conference3  a  test:Conference , test:DatabaseConference ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Data Science" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DatabaseConference .
+                "Data Science" .
 
-test:Conference1  a  test:Conference ;
+test:Conference1  a  test:Conference , test:DatabaseConference ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Web Intelligence and Agent Systems" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DatabaseConference .
+                "Web Intelligence and Agent Systems" .
 
-test:Journal1  a  test:Journal ;
+test:Journal1  a  test:Journal , test:OpenAccessJournal ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Acta Inf." ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:OpenAccessJournal .
+                "Acta Inf." .
 
 test:Paula_Furtado  a  test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
@@ -851,7 +679,7 @@ test:Kwang-I_Yu  a  test:Author ;
 test:Antoni_Wolski  a  test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Antoni Wolski" ;
-        test:wrote  "paper43" , "paper21" , "paper53" .
+        test:wrote  "paper43" , "paper53" , "paper21" .
 
 test:Michael_Stonebraker
         a           test:Author ;
@@ -868,12 +696,12 @@ test:Bharathi_Subramanian
         a           test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Bharathi Subramanian" ;
-        test:wrote  "paper41" , "paper13" , "paper11" , "paper32" , "paper52" .
+        test:wrote  "paper41" , "paper52" , "paper32" , "paper11" , "paper13" .
 
 test:David_Farmer  a  test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "David Farmer" ;
-        test:wrote  "paper31" , "paper62" , "paper71" , "paper78" .
+        test:wrote  "paper78" , "paper31" , "paper62" , "paper71" .
 
 test:H._C._Du  a    test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
@@ -894,7 +722,7 @@ test:Hector_Garcia-Molina
         a           test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Hector Garcia-Molina" ;
-        test:wrote  "paper76" , "paper45" , "paper75" , "paper21" , "paper79" .
+        test:wrote  "paper21" , "paper79" , "paper76" , "paper45" , "paper75" .
 
 test:Ajit_K._Patankar
         a           test:Author ;
@@ -906,7 +734,7 @@ test:Kelly_W._Cartron
         a           test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Kelly W. Cartron" ;
-        test:wrote  "paper55" , "paper39" , "paper63" , "paper54" .
+        test:wrote  "paper39" , "paper63" , "paper55" , "paper54" .
 
 test:Alle_IJbema  a  test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
@@ -916,7 +744,7 @@ test:Alle_IJbema  a  test:Author ;
 test:Ling_Liu_0001  a  test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Ling Liu 0001" ;
-        test:wrote  "paper42" , "paper52" .
+        test:wrote  "paper52" , "paper42" .
 
 test:Eric_N._Hanson  a  test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
@@ -944,18 +772,18 @@ test:Stanley_B._Zdonik
 test:Siu-Lun_Au  a  test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Siu-Lun Au" ;
-        test:wrote  "paper25" , "paper68" , "paper8" .
+        test:wrote  "paper68" , "paper8" , "paper25" .
 
 test:Douglas_W._Cornell
         a           test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Douglas W. Cornell" ;
-        test:wrote  "paper27" , "paper30" , "paper49" .
+        test:wrote  "paper49" , "paper27" , "paper30" .
 
 test:Yang-Chang_Hong  a  test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Yang-Chang Hong" ;
-        test:wrote  "paper69" , "paper46" , "paper20" , "paper31" .
+        test:wrote  "paper20" , "paper69" , "paper31" , "paper46" .
 
 test:Daniel_Barbará  a  test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
@@ -965,7 +793,7 @@ test:Daniel_Barbará  a  test:Author ;
 test:Herman_Lam  a  test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Herman Lam" ;
-        test:wrote  "paper63" , "paper77" .
+        test:wrote  "paper77" , "paper63" .
 
 test:Lijuan_Li  a   test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
@@ -976,23 +804,23 @@ test:Christine_Parent
         a           test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Christine Parent" ;
-        test:wrote  "paper57" , "paper30" , "paper2" , "paper40" .
+        test:wrote  "paper2" , "paper40" , "paper57" , "paper30" .
 
 test:Doron_Rotem  a  test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Doron Rotem" ;
-        test:wrote  "paper14" , "paper41" , "paper37" , "paper12" , "paper56" .
+        test:wrote  "paper12" , "paper56" , "paper14" , "paper41" , "paper37" .
 
 test:Daniel_F._Lieuwen
         a           test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Daniel F. Lieuwen" ;
-        test:wrote  "paper51" , "paper31" , "paper48" , "paper73" , "paper65" .
+        test:wrote  "paper73" , "paper48" , "paper65" , "paper31" , "paper51" .
 
 test:Silvana_Castano  a  test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Silvana Castano" ;
-        test:wrote  "paper10" , "paper35" , "paper60" , "paper26" , "paper64" .
+        test:wrote  "paper10" , "paper64" , "paper60" , "paper35" , "paper26" .
 
 test:H._V._Jagadish  a  test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
@@ -1003,12 +831,12 @@ test:Algirdas_Avizienis
         a           test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Algirdas Avizienis" ;
-        test:wrote  "paper17" , "paper69" , "paper7" .
+        test:wrote  "paper69" , "paper7" , "paper17" .
 
 test:Albert_Croker  a  test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Albert Croker" ;
-        test:wrote  "paper80" , "paper60" , "paper74" , "paper67" .
+        test:wrote  "paper74" , "paper60" , "paper80" , "paper67" .
 
 test:Jonathan_P._Gilbert
         a           test:Author ;
@@ -1019,12 +847,12 @@ test:Jonathan_P._Gilbert
 test:Joachim_Schü  a  test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Joachim Schü" ;
-        test:wrote  "paper38" , "paper59" , "paper74" .
+        test:wrote  "paper74" , "paper38" , "paper59" .
 
 test:Mimi_Kao  a    test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Mimi Kao" ;
-        test:wrote  "paper38" , "paper77" , "paper12" .
+        test:wrote  "paper12" , "paper77" , "paper38" .
 
 test:Krithi_Ramamritham
         a           test:Author ;
@@ -1041,22 +869,22 @@ test:Valeria_De_Antonellis
 test:Arun_N._Swami  a  test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Arun N. Swami" ;
-        test:wrote  "paper56" , "paper53" , "paper41" , "paper2" .
+        test:wrote  "paper2" , "paper56" , "paper41" , "paper53" .
 
 test:A._Moon  a     test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "A. Moon" ;
-        test:wrote  "paper70" , "paper68" , "paper24" , "paper9" .
-
-test:Asit_Dan  a    test:Author ;
-        <http://www.w3.org/2000/01/rdf-schema#label>
-                "Asit Dan" ;
-        test:wrote  "paper6" , "paper26" .
+        test:wrote  "paper68" , "paper9" , "paper24" , "paper70" .
 
 test:Masao_Sakauchi  a  test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Masao Sakauchi" ;
         test:wrote  "paper27" , "paper1" , "paper4" .
+
+test:Asit_Dan  a    test:Author ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Asit Dan" ;
+        test:wrote  "paper6" , "paper26" .
 
 test:Arnon_Rosenthal  a  test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
@@ -1066,23 +894,23 @@ test:Arnon_Rosenthal  a  test:Author ;
 test:Rafael_Alonso  a  test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Rafael Alonso" ;
-        test:wrote  "paper59" , "paper24" , "paper15" , "paper28" , "paper39" .
+        test:wrote  "paper28" , "paper24" , "paper39" , "paper15" , "paper59" .
 
 test:Jack_Milton  a  test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Jack Milton" ;
-        test:wrote  "paper17" , "paper5" , "paper71" , "paper4" , "paper7" , "paper3" .
+        test:wrote  "paper4" , "paper3" , "paper5" , "paper17" , "paper71" , "paper7" .
 
 test:Ming-Chien_Shan  a  test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "Ming-Chien Shan" ;
-        test:wrote  "paper62" , "paper8" , "paper25" , "paper72" .
+        test:wrote  "paper25" , "paper72" , "paper8" , "paper62" .
 
 test:George_P._Copeland
         a           test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>
                 "George P. Copeland" ;
-        test:wrote  "paper8" , "paper43" , "paper26" , "paper15" , "paper36" , "paper6" , "paper47" .
+        test:wrote  "paper15" , "paper36" , "paper47" , "paper43" , "paper6" , "paper26" , "paper8" .
 
 test:Danilo_Montesi  a  test:Author ;
         <http://www.w3.org/2000/01/rdf-schema#label>

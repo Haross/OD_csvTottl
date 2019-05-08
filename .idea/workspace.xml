@@ -2,37 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a2f218f-c431-48a7-a573-de35283a9dcd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queries/abox/insert_abox_original.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queries/common_queries.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queries/tbox/import_tbox.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queries/tbox/tbox_original.owl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queries/tbox/tbox_original.owl.graph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queries/abox/insert_abox_v2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queries/tbox/v2/tbox_v2.owl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queries/tbox/v2/tbox_v2.owl.graph" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/queries/common_queries.txt" beforeDir="false" afterPath="$PROJECT_DIR$/queries/common_queries.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/post/abox.ttl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/post/abox.ttl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/post/abox.ttl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/post/lab_author.ttl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/post/lab_author.ttl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/post/lab_journalConference.ttl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/post/lab_journalConference.ttl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/post/lab_paper.ttl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/post/lab_paper.ttl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/post/lab_reviewers.ttl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/post/lab_reviewers.ttl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/postlab_author.ttl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/postlab_author.ttl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/postlab_journalConference.ttl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/postlab_journalConference.ttl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/postlab_paper.ttl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/postlab_paper.ttl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/postlab_reviewers.ttl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/postlab_reviewers.ttl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/pre/lab_author.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/pre/lab_author.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/pre/lab_journalConference.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/pre/lab_journalConference.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/pre/lab_paper.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/pre/lab_paper.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/pre/lab_reviewers.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/pre/lab_reviewers.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/post/abox.ttl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/post/abox.ttl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/postlab_author.ttl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/postlab_author.ttl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/postlab_journalConference.ttl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/postlab_journalConference.ttl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/postlab_paper.ttl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/postlab_paper.ttl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/postlab_reviewers.ttl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/postlab_reviewers.ttl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pre/lab_author.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pre/lab_author.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pre/lab_journalConference.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pre/lab_journalConference.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pre/lab_paper.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pre/lab_paper.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pre/lab_reviewers.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pre/lab_reviewers.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/post/lab_author.ttl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/post/lab_author.ttl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/post/lab_journalConference.ttl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/post/lab_journalConference.ttl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/post/lab_paper.ttl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/post/lab_paper.ttl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/post/lab_reviewers.ttl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/post/lab_reviewers.ttl" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -50,8 +36,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="28" column="27" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="27" />
+            <state relative-caret-position="98">
+              <caret line="167" column="72" selection-start-line="167" selection-start-column="72" selection-end-line="167" selection-end-column="72" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#3893#3920#0" expanded="true" />
@@ -61,12 +47,44 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/post/abox.ttl">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/post/lab_paper.ttl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="1106" selection-start-line="1" selection-end-line="1106" />
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/post/abox.ttl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="259" column="10" selection-start-line="259" selection-start-column="4" selection-end-line="259" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/queries/abox/insert_abox_v2.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/queries/common_queries.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/queries/tbox/v2/tbox_v2.owl.graph">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -82,29 +100,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/queries/tbox/import_tbox.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="104" selection-start-column="74" selection-end-column="104" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/queries/tbox/tbox_original.owl">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/queries/common_queries.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/queries/abox/insert_abox_original.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
@@ -141,11 +136,12 @@
       <find>revi</find>
       <find>wrote</find>
       <find>BufferedReader</find>
-      <find>filew</find>
-      <find>paper</find>
       <find>Journal3</find>
       <find>Paper</find>
+      <find>filew</find>
       <find>subject</find>
+      <find>paper</find>
+      <find>:paper</find>
       <find>type</find>
     </findStrings>
   </component>
@@ -168,12 +164,13 @@
         <option value="$PROJECT_DIR$/src/main/java/JournalConference.java" />
         <option value="$PROJECT_DIR$/src/main/java/InstanceGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/resources/post/lab_paper.ttl" />
-        <option value="$PROJECT_DIR$/src/main/resources/post/abox.ttl" />
         <option value="$PROJECT_DIR$/queries/import_tbox.txt" />
         <option value="$PROJECT_DIR$/queries/tbox/import_tbox.txt" />
-        <option value="$PROJECT_DIR$/queries/common_queries.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/queries/abox/insert_abox_original.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/post/abox.ttl" />
+        <option value="$PROJECT_DIR$/queries/abox/insert_abox_v2.txt" />
+        <option value="$PROJECT_DIR$/queries/common_queries.txt" />
       </list>
     </option>
   </component>
@@ -212,6 +209,19 @@
               <item name="OD_C2" type="462c0819:PsiDirectoryNode" />
               <item name="queries" type="462c0819:PsiDirectoryNode" />
               <item name="abox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OD_C2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OD_C2" type="462c0819:PsiDirectoryNode" />
+              <item name="queries" type="462c0819:PsiDirectoryNode" />
+              <item name="tbox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OD_C2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OD_C2" type="462c0819:PsiDirectoryNode" />
+              <item name="queries" type="462c0819:PsiDirectoryNode" />
+              <item name="tbox" type="462c0819:PsiDirectoryNode" />
+              <item name="v2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OD_C2" type="b2602c69:ProjectViewProjectNode" />
@@ -270,7 +280,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/queries/tbox" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/queries/tbox/v2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -289,6 +299,8 @@
       <recent name="$PROJECT_DIR$/src/main/resources/raw" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/queries/tbox/v2" />
+      <recent name="$PROJECT_DIR$/queries/abox" />
       <recent name="$PROJECT_DIR$/queries/tbox" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
@@ -346,16 +358,15 @@
       <option name="presentableId" value="Default" />
       <updated>1557175020785</updated>
       <workItem from="1557175021977" duration="2438000" />
-      <workItem from="1557177512596" duration="39994000" />
+      <workItem from="1557177512596" duration="41208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42432000" />
+    <option name="totallyTimeSpent" value="43646000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -478,23 +489,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/jena/jena-arq/3.1.0/jena-arq-3.1.0.jar!/org/apache/jena/atlas/web/ContentType.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="e#953#954#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/jena/jena-arq/3.1.0/jena-arq-3.1.0.jar!/org/apache/jena/riot/RDFParserRegistry.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="89" selection-start-line="89" selection-end-line="89" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/jena/jena-csv/3.1.0/jena-csv-3.1.0.jar!/org/apache/jena/propertytable/lang/ReaderRIOTFactoryCSV.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -797,28 +791,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/post/lab_paper.ttl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/pre/lab_journalConference.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/pre/lab_author.csv">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/InstanceGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-31">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/queries/tbox/protege.owl.graph">
       <provider selected="true" editor-type-id="text-editor">
@@ -851,36 +828,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="28" column="27" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3893#3920#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/queries/tbox/import_tbox.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="104" selection-start-column="74" selection-end-column="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/post/abox.ttl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="1106" selection-start-line="1" selection-end-line="1106" />
-        </state>
-      </provider>
-      <provider editor-type-id="LargeFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/queries/common_queries.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -890,6 +841,59 @@
           <caret line="1089" lean-forward="true" selection-start-line="1089" selection-end-line="1089" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/InstanceGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="167" column="72" selection-start-line="167" selection-start-column="72" selection-end-line="167" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3893#3920#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/post/lab_paper.ttl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/post/abox.ttl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="259" column="10" selection-start-line="259" selection-start-column="4" selection-end-line="259" selection-end-column="10" />
+        </state>
+      </provider>
+      <provider editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queries/abox/insert_abox_v2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queries/common_queries.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queries/tbox/v2/tbox_v2.owl.graph">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">

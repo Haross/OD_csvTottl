@@ -29,7 +29,7 @@ public class Main {
         java.lang.String pt = "src/main/resources/post/"; // resrouces path
 
         convertCSVToRDF("Author","pre/lab_author.csv",pt+"lab_author.ttl",ty,prefix,baseuri);
-        convertCSVToRDF("Paper","pre/lab_paper.csv",pt+"lab_paper.ttl",ty,prefix,baseuri);
+        convertCSVToRDF("","pre/lab_paper.csv",pt+"lab_paper.ttl",ty,prefix,baseuri);
         convertCSVToRDF("Reviewer","pre/lab_reviewers.csv",pt+"lab_reviewers.ttl",ty,prefix,baseuri);
         convertCSVToRDF("","pre/lab_journalConference.csv",pt+"lab_journalConference.ttl",ty,prefix,baseuri);
 
@@ -164,7 +164,8 @@ public class Main {
                             }else{
                                 if(p.getPredicate().toString().replace(uri,"").equals("subClassOf")){
                                     Resource temp = containerModel.createResource(uri+p.getObject());
-                                    containerModel.add(subject, RDFS.subClassOf, temp);
+//                                    containerModel.add(subject, RDFS.subClassOf, temp);
+                                    containerModel.add(subject, RDF.type, temp);
                                     //Case for type
 //
                                 }else{

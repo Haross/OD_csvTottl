@@ -1,37 +1,25 @@
 @prefix test:  <http://localhost:8890/research#> .
 
-test:Conference4  a  test:Conference ;
+test:Conference4  a  test:Conference , test:DatabaseConference ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Future Generation Comp. Syst." ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DatabaseConference .
+                "Future Generation Comp. Syst." .
 
-test:Conference2  a  test:Conference ;
+test:Conference2  a  test:Conference , test:DatabaseConference ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Computers in Industry" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DatabaseConference .
+                "Computers in Industry" .
 
-test:Journal2  a  test:Journal ;
+test:Journal2  a  test:Journal , test:OpenAccessJournal ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Machine learning sc." ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:OpenAccessJournal .
+                "Machine learning sc." .
 
-test:Conference3  a  test:Conference ;
+test:Conference3  a  test:Conference , test:DatabaseConference ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Data Science" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DatabaseConference .
+                "Data Science" .
 
-test:Conference1  a  test:Conference ;
+test:Conference1  a  test:Conference , test:DatabaseConference ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Web Intelligence and Agent Systems" ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:DatabaseConference .
+                "Web Intelligence and Agent Systems" .
 
-test:Journal1  a  test:Journal ;
+test:Journal1  a  test:Journal , test:OpenAccessJournal ;
         <http://www.w3.org/2000/01/rdf-schema#label>
-                "Acta Inf." ;
-        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
-                test:OpenAccessJournal .
+                "Acta Inf." .
