@@ -1,0 +1,1 @@
+ld_dir ('/usr/local/Cellar/virtuoso/7.2.5.1/share/virtuoso/vad', '*.owl','http://localhost:8890/research');rdf_loader_run();

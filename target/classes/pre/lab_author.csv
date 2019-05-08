@@ -1,167 +1,173 @@
 id,wrote,label
-Clement_T._Yu,paper1,Clement T. Yu
 Danilo_Montesi,paper1,Danilo Montesi
-Asit_Dan,paper2,Asit Dan
-Erol_Gelenbe,paper2,Erol Gelenbe
-Bharathi_Subramanian,paper3,Bharathi Subramanian
-Silvana_Castano,paper3,Silvana Castano
-Albert_Croker,paper4,Albert Croker
-Silvana_Castano,paper5,Silvana Castano
-Joachim_Schü,paper6,Joachim Schü
-Erol_Gelenbe,paper7,Erol Gelenbe
-Clement_T._Yu,paper8,Clement T. Yu
-Yang-Chang_Hong,paper8,Yang-Chang Hong
-Yang-Chang_Hong,paper9,Yang-Chang Hong
-Jonathan_P._Gilbert,paper9,Jonathan P. Gilbert
-Yang-Chang_Hong,paper10,Yang-Chang Hong
-Jonathan_P._Gilbert,paper10,Jonathan P. Gilbert
-Daniel_Barbará,paper11,Daniel Barbará
-Stanley_B._Zdonik,paper11,Stanley B. Zdonik
-David_Farmer,paper11,David Farmer
-Antoni_Wolski,paper12,Antoni Wolski
-Lijuan_Li,paper12,Lijuan Li
-Silvana_Castano,paper12,Silvana Castano
-Hector_Garcia-Molina,paper13,Hector Garcia-Molina
-Christian_S._Jensen,paper13,Christian S. Jensen
-Erol_Gelenbe,paper13,Erol Gelenbe
-Doron_Rotem,paper14,Doron Rotem
-Doron_Rotem,paper14,Doron Rotem
+Masao_Sakauchi,paper1,Masao Sakauchi
+Arun_N._Swami,paper2,Arun N. Swami
+Michael_Stonebraker,paper2,Michael Stonebraker
+Christine_Parent,paper2,Christine Parent
+Danilo_Montesi,paper3,Danilo Montesi
+Jack_Milton,paper3,Jack Milton
+Jack_Milton,paper4,Jack Milton
+H._V._Jagadish,paper4,H. V. Jagadish
+Masao_Sakauchi,paper4,Masao Sakauchi
+Jack_Milton,paper5,Jack Milton
+Asit_Dan,paper6,Asit Dan
+Paula_Furtado,paper6,Paula Furtado
+George_P._Copeland,paper6,George P. Copeland
+Algirdas_Avizienis,paper7,Algirdas Avizienis
+Jack_Milton,paper7,Jack Milton
+Jack_Milton,paper7,Jack Milton
+Siu-Lun_Au,paper8,Siu-Lun Au
+George_P._Copeland,paper8,George P. Copeland
+Ming-Chien_Shan,paper8,Ming-Chien Shan
+A._Moon,paper9,A. Moon
+Danilo_Montesi,paper9,Danilo Montesi
+Silvana_Castano,paper10,Silvana Castano
+Bharathi_Subramanian,paper11,Bharathi Subramanian
+Mimi_Kao,paper12,Mimi Kao
+Doron_Rotem,paper12,Doron Rotem
+Bharathi_Subramanian,paper13,Bharathi Subramanian
+H._V._Jagadish,paper13,H. V. Jagadish
 Erol_Gelenbe,paper14,Erol Gelenbe
-Christine_Parent,paper15,Christine Parent
-David_Farmer,paper15,David Farmer
-Algirdas_Avizienis,paper15,Algirdas Avizienis
-Masao_Sakauchi,paper16,Masao Sakauchi
-Douglas_W._Cornell,paper17,Douglas W. Cornell
-Masao_Sakauchi,paper17,Masao Sakauchi
-Michael_Stonebraker,paper18,Michael Stonebraker
-H._V._Jagadish,paper18,H. V. Jagadish
-Stanley_B._Zdonik,paper18,Stanley B. Zdonik
-Jonathan_P._Gilbert,paper19,Jonathan P. Gilbert
-Christian_S._Jensen,paper20,Christian S. Jensen
-Herman_Lam,paper20,Herman Lam
-Rafael_Alonso,paper20,Rafael Alonso
-Albert_Croker,paper21,Albert Croker
-Jonathan_P._Gilbert,paper22,Jonathan P. Gilbert
-Doron_Rotem,paper23,Doron Rotem
-H._V._Jagadish,paper23,H. V. Jagadish
-Arun_N._Swami,paper23,Arun N. Swami
-Lijuan_Li,paper24,Lijuan Li
-George_P._Copeland,paper24,George P. Copeland
-Jeffrey_Scott_Vitter,paper24,Jeffrey Scott Vitter
-Arun_N._Swami,paper25,Arun N. Swami
-Yang-Chang_Hong,paper26,Yang-Chang Hong
-Rodney_P._Zimmerman,paper26,Rodney P. Zimmerman
+Joseph_E._Urban,paper14,Joseph E. Urban
+Doron_Rotem,paper14,Doron Rotem
+Rafael_Alonso,paper15,Rafael Alonso
+George_P._Copeland,paper15,George P. Copeland
+Erol_Gelenbe,paper16,Erol Gelenbe
+Danilo_Montesi,paper16,Danilo Montesi
+Algirdas_Avizienis,paper17,Algirdas Avizienis
+Jack_Milton,paper17,Jack Milton
+Danilo_Montesi,paper18,Danilo Montesi
+Erol_Gelenbe,paper19,Erol Gelenbe
+Erol_Gelenbe,paper19,Erol Gelenbe
+Danilo_Montesi,paper20,Danilo Montesi
+Kwang-I_Yu,paper20,Kwang-I Yu
+Yang-Chang_Hong,paper20,Yang-Chang Hong
+Hector_Garcia-Molina,paper21,Hector Garcia-Molina
+Antoni_Wolski,paper21,Antoni Wolski
+Erol_Gelenbe,paper22,Erol Gelenbe
+Paula_Furtado,paper23,Paula Furtado
+Clement_T._Yu,paper23,Clement T. Yu
+A._Moon,paper24,A. Moon
+Ajit_K._Patankar,paper24,Ajit K. Patankar
+Rafael_Alonso,paper24,Rafael Alonso
+Ming-Chien_Shan,paper25,Ming-Chien Shan
+Siu-Lun_Au,paper25,Siu-Lun Au
+H._V._Jagadish,paper25,H. V. Jagadish
+Silvana_Castano,paper26,Silvana Castano
+Asit_Dan,paper26,Asit Dan
 George_P._Copeland,paper26,George P. Copeland
-Joachim_Schü,paper27,Joachim Schü
-Arun_N._Swami,paper27,Arun N. Swami
-Alle_IJbema,paper28,Alle IJbema
-Douglas_W._Cornell,paper28,Douglas W. Cornell
-H._V._Jagadish,paper28,H. V. Jagadish
-Christine_Parent,paper29,Christine Parent
-Rafael_Alonso,paper29,Rafael Alonso
-Mohan_Kamath,paper29,Mohan Kamath
-Lijuan_Li,paper30,Lijuan Li
-Jeffrey_Scott_Vitter,paper31,Jeffrey Scott Vitter
-Christian_S._Jensen,paper31,Christian S. Jensen
-Michael_Stonebraker,paper32,Michael Stonebraker
-A._Moon,paper32,A. Moon
-Stanley_B._Zdonik,paper32,Stanley B. Zdonik
-Jack_Milton,paper33,Jack Milton
-Rafael_Alonso,paper34,Rafael Alonso
-Doron_Rotem,paper35,Doron Rotem
-Li-Yan_Yuan,paper35,Li-Yan Yuan
-Bharathi_Subramanian,paper35,Bharathi Subramanian
-Lijuan_Li,paper36,Lijuan Li
-Yang-Chang_Hong,paper36,Yang-Chang Hong
-Jeffrey_Scott_Vitter,paper36,Jeffrey Scott Vitter
-H._V._Jagadish,paper37,H. V. Jagadish
-Maurizio_Lenzerini,paper38,Maurizio Lenzerini
-Valeria_De_Antonellis,paper39,Valeria De Antonellis
-Herman_Lam,paper39,Herman Lam
-Doron_Rotem,paper39,Doron Rotem
-Daniel_F._Lieuwen,paper40,Daniel F. Lieuwen
-George_P._Copeland,paper41,George P. Copeland
-Silvana_Castano,paper41,Silvana Castano
-Lijuan_Li,paper41,Lijuan Li
-A._Moon,paper42,A. Moon
-H._C._Du,paper42,H. C. Du
-Ming-Chien_Shan,paper42,Ming-Chien Shan
-Asit_Dan,paper43,Asit Dan
-Christian_S._Jensen,paper43,Christian S. Jensen
-Lijuan_Li,paper44,Lijuan Li
-Lijuan_Li,paper44,Lijuan Li
-Christian_S._Jensen,paper44,Christian S. Jensen
+Douglas_W._Cornell,paper27,Douglas W. Cornell
+Masao_Sakauchi,paper27,Masao Sakauchi
+Ajit_K._Patankar,paper27,Ajit K. Patankar
+Rafael_Alonso,paper28,Rafael Alonso
+Ajit_K._Patankar,paper29,Ajit K. Patankar
+Li-Yan_Yuan,paper30,Li-Yan Yuan
+Christine_Parent,paper30,Christine Parent
+Douglas_W._Cornell,paper30,Douglas W. Cornell
+David_Farmer,paper31,David Farmer
+Daniel_F._Lieuwen,paper31,Daniel F. Lieuwen
+Yang-Chang_Hong,paper31,Yang-Chang Hong
+H._V._Jagadish,paper32,H. V. Jagadish
+H._V._Jagadish,paper32,H. V. Jagadish
+Bharathi_Subramanian,paper32,Bharathi Subramanian
+Jonathan_P._Gilbert,paper33,Jonathan P. Gilbert
+Ajit_K._Patankar,paper34,Ajit K. Patankar
+Silvana_Castano,paper35,Silvana Castano
+Danilo_Montesi,paper35,Danilo Montesi
+Erol_Gelenbe,paper35,Erol Gelenbe
+Erol_Gelenbe,paper36,Erol Gelenbe
+George_P._Copeland,paper36,George P. Copeland
+Michael_Stonebraker,paper36,Michael Stonebraker
+Jonathan_P._Gilbert,paper37,Jonathan P. Gilbert
+Doron_Rotem,paper37,Doron Rotem
+Li-Yan_Yuan,paper37,Li-Yan Yuan
+Mimi_Kao,paper38,Mimi Kao
+Joachim_Schü,paper38,Joachim Schü
+Lijuan_Li,paper38,Lijuan Li
+Rafael_Alonso,paper39,Rafael Alonso
+Kelly_W._Cartron,paper39,Kelly W. Cartron
+Mohan_Kamath,paper39,Mohan Kamath
+Christine_Parent,paper40,Christine Parent
+Bharathi_Subramanian,paper41,Bharathi Subramanian
+Arun_N._Swami,paper41,Arun N. Swami
+Doron_Rotem,paper41,Doron Rotem
+Paula_Furtado,paper42,Paula Furtado
+Ling_Liu_0001,paper42,Ling Liu 0001
+George_P._Copeland,paper43,George P. Copeland
+H._V._Jagadish,paper43,H. V. Jagadish
+Antoni_Wolski,paper43,Antoni Wolski
+H._V._Jagadish,paper44,H. V. Jagadish
 Hector_Garcia-Molina,paper45,Hector Garcia-Molina
-David_Farmer,paper45,David Farmer
-George_P._Copeland,paper46,George P. Copeland
-Herman_Lam,paper47,Herman Lam
-Rafael_Alonso,paper47,Rafael Alonso
-A._Moon,paper47,A. Moon
-Clement_T._Yu,paper48,Clement T. Yu
-Douglas_W._Cornell,paper48,Douglas W. Cornell
-Silvana_Castano,paper49,Silvana Castano
+Yang-Chang_Hong,paper46,Yang-Chang Hong
+George_P._Copeland,paper47,George P. Copeland
+Daniel_Barbará,paper48,Daniel Barbará
+Daniel_F._Lieuwen,paper48,Daniel F. Lieuwen
+Douglas_W._Cornell,paper49,Douglas W. Cornell
+Christian_S._Jensen,paper49,Christian S. Jensen
+Arnon_Rosenthal,paper49,Arnon Rosenthal
 Krithi_Ramamritham,paper50,Krithi Ramamritham
-Christian_S._Jensen,paper50,Christian S. Jensen
-David_Farmer,paper50,David Farmer
-Masao_Sakauchi,paper51,Masao Sakauchi
-Albert_Croker,paper51,Albert Croker
+Maurizio_Lenzerini,paper51,Maurizio Lenzerini
+Daniel_F._Lieuwen,paper51,Daniel F. Lieuwen
+Ling_Liu_0001,paper52,Ling Liu 0001
+Danilo_Montesi,paper52,Danilo Montesi
 Bharathi_Subramanian,paper52,Bharathi Subramanian
-Kwang-I_Yu,paper52,Kwang-I Yu
-Stanley_B._Zdonik,paper52,Stanley B. Zdonik
-H._V._Jagadish,paper53,H. V. Jagadish
-Arnon_Rosenthal,paper54,Arnon Rosenthal
-Erol_Gelenbe,paper55,Erol Gelenbe
-Rafael_Alonso,paper55,Rafael Alonso
-Christine_Parent,paper55,Christine Parent
-Jack_Milton,paper56,Jack Milton
-Kelly_W._Cartron,paper56,Kelly W. Cartron
-A._Moon,paper57,A. Moon
-Doron_Rotem,paper57,Doron Rotem
-Silvana_Castano,paper57,Silvana Castano
-Ajit_K._Patankar,paper58,Ajit K. Patankar
-Michael_Stonebraker,paper59,Michael Stonebraker
-Asit_Dan,paper59,Asit Dan
-Algirdas_Avizienis,paper59,Algirdas Avizienis
-Christian_S._Jensen,paper60,Christian S. Jensen
-Krithi_Ramamritham,paper60,Krithi Ramamritham
-Rafael_Alonso,paper60,Rafael Alonso
+Antoni_Wolski,paper53,Antoni Wolski
+Arun_N._Swami,paper53,Arun N. Swami
+Kelly_W._Cartron,paper54,Kelly W. Cartron
+Kelly_W._Cartron,paper55,Kelly W. Cartron
+Arun_N._Swami,paper56,Arun N. Swami
+Doron_Rotem,paper56,Doron Rotem
+Christine_Parent,paper57,Christine Parent
+H._C._Du,paper58,H. C. Du
+Danilo_Montesi,paper58,Danilo Montesi
+Alle_IJbema,paper58,Alle IJbema
+Danilo_Montesi,paper59,Danilo Montesi
+Joachim_Schü,paper59,Joachim Schü
+Rafael_Alonso,paper59,Rafael Alonso
+Silvana_Castano,paper60,Silvana Castano
+Eric_N._Hanson,paper60,Eric N. Hanson
+Albert_Croker,paper60,Albert Croker
+Ajit_K._Patankar,paper61,Ajit K. Patankar
+Erol_Gelenbe,paper61,Erol Gelenbe
 H._V._Jagadish,paper61,H. V. Jagadish
-Masao_Sakauchi,paper62,Masao Sakauchi
-Stanley_B._Zdonik,paper62,Stanley B. Zdonik
-Rodney_P._Zimmerman,paper63,Rodney P. Zimmerman
-Arun_N._Swami,paper63,Arun N. Swami
-Masao_Sakauchi,paper64,Masao Sakauchi
-Christine_Parent,paper65,Christine Parent
-George_P._Copeland,paper65,George P. Copeland
-Erol_Gelenbe,paper66,Erol Gelenbe
-Masao_Sakauchi,paper67,Masao Sakauchi
-Rafael_Alonso,paper67,Rafael Alonso
-Yang-Chang_Hong,paper67,Yang-Chang Hong
-Antoni_Wolski,paper68,Antoni Wolski
-Rafael_Alonso,paper68,Rafael Alonso
-Arun_N._Swami,paper68,Arun N. Swami
-Silvana_Castano,paper69,Silvana Castano
-Eric_N._Hanson,paper69,Eric N. Hanson
-Arun_N._Swami,paper70,Arun N. Swami
-George_P._Copeland,paper70,George P. Copeland
-Algirdas_Avizienis,paper70,Algirdas Avizienis
-Kelly_W._Cartron,paper71,Kelly W. Cartron
-Rafael_Alonso,paper71,Rafael Alonso
-Antoni_Wolski,paper71,Antoni Wolski
-Rafael_Alonso,paper72,Rafael Alonso
-David_Farmer,paper72,David Farmer
-Clement_T._Yu,paper72,Clement T. Yu
-Antoni_Wolski,paper73,Antoni Wolski
-Yang-Chang_Hong,paper73,Yang-Chang Hong
-Christine_Parent,paper74,Christine Parent
-Daniel_F._Lieuwen,paper75,Daniel F. Lieuwen
-Mohan_Kamath,paper76,Mohan Kamath
+David_Farmer,paper62,David Farmer
+Valeria_De_Antonellis,paper62,Valeria De Antonellis
+Ming-Chien_Shan,paper62,Ming-Chien Shan
+Herman_Lam,paper63,Herman Lam
+H._V._Jagadish,paper63,H. V. Jagadish
+Kelly_W._Cartron,paper63,Kelly W. Cartron
+Silvana_Castano,paper64,Silvana Castano
+Daniel_F._Lieuwen,paper65,Daniel F. Lieuwen
+Ajit_K._Patankar,paper66,Ajit K. Patankar
+Christian_S._Jensen,paper66,Christian S. Jensen
+Albert_Croker,paper67,Albert Croker
+Rodney_P._Zimmerman,paper67,Rodney P. Zimmerman
+Siu-Lun_Au,paper68,Siu-Lun Au
+H._V._Jagadish,paper68,H. V. Jagadish
+A._Moon,paper68,A. Moon
+Algirdas_Avizienis,paper69,Algirdas Avizienis
+Yang-Chang_Hong,paper69,Yang-Chang Hong
+Stanley_B._Zdonik,paper69,Stanley B. Zdonik
+A._Moon,paper70,A. Moon
+A._Moon,paper70,A. Moon
+David_Farmer,paper71,David Farmer
+Jack_Milton,paper71,Jack Milton
+Jack_Milton,paper71,Jack Milton
+Ajit_K._Patankar,paper72,Ajit K. Patankar
+Ming-Chien_Shan,paper72,Ming-Chien Shan
+Daniel_F._Lieuwen,paper73,Daniel F. Lieuwen
+Albert_Croker,paper74,Albert Croker
+Joachim_Schü,paper74,Joachim Schü
+Danilo_Montesi,paper74,Danilo Montesi
+Hector_Garcia-Molina,paper75,Hector Garcia-Molina
+Hector_Garcia-Molina,paper76,Hector Garcia-Molina
+H._V._Jagadish,paper76,H. V. Jagadish
 Mimi_Kao,paper77,Mimi Kao
-George_P._Copeland,paper77,George P. Copeland
-H._V._Jagadish,paper78,H. V. Jagadish
-Rafael_Alonso,paper78,Rafael Alonso
-Krithi_Ramamritham,paper78,Krithi Ramamritham
-Paula_Furtado,paper79,Paula Furtado
+Herman_Lam,paper77,Herman Lam
+Lijuan_Li,paper78,Lijuan Li
+Ajit_K._Patankar,paper78,Ajit K. Patankar
+David_Farmer,paper78,David Farmer
+Hector_Garcia-Molina,paper79,Hector Garcia-Molina
+Clement_T._Yu,paper79,Clement T. Yu
+Erol_Gelenbe,paper79,Erol Gelenbe
 Albert_Croker,paper80,Albert Croker
-Siu-Lun_Au,paper80,Siu-Lun Au
-H._C._Du,paper80,H. C. Du

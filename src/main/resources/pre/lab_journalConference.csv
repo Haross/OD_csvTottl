@@ -1,7 +1,7 @@
 id,label,type,subClassOf
 Journal1,Acta Inf.,Journal,OpenAccessJournal
-Journal2,Web Intelligence and Agent Systems,Journal,OpenAccessJournal
-Journal3,Computers in Industry,Journal,OpenAccessJournal
-Conference1,Machine learning sc.,Conference,DatabaseConference
-Conference2,Data Science,Conference,DatabaseConference
-Conference3,Future Generation Comp. Syst.,Conference,DatabaseConference
+Conference1,Web Intelligence and Agent Systems,Conference,DatabaseConference
+Conference2,Computers in Industry,Conference,DatabaseConference
+Journal2,Machine learning sc.,Journal,OpenAccessJournal
+Conference3,Data Science,Conference,DatabaseConference
+Conference4,Future Generation Comp. Syst.,Conference,DatabaseConference

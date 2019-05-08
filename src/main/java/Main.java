@@ -26,11 +26,11 @@ public class Main {
         java.lang.String prefix = "test";
         java.lang.String baseuri = "http://localhost:8890/research";
         java.lang.String ty = "ttl"; //outputtype
-        java.lang.String pt = "src/main/resources/post"; // resrouces path
+        java.lang.String pt = "src/main/resources/post/"; // resrouces path
 
-        convertCSVToRDF("author","pre/lab_author.csv",pt+"lab_author.ttl",ty,prefix,baseuri);
-        convertCSVToRDF("paper","pre/lab_paper.csv",pt+"lab_paper.ttl",ty,prefix,baseuri);
-        convertCSVToRDF("reviewer","pre/lab_reviewers.csv",pt+"lab_reviewers.ttl",ty,prefix,baseuri);
+        convertCSVToRDF("Author","pre/lab_author.csv",pt+"lab_author.ttl",ty,prefix,baseuri);
+        convertCSVToRDF("Paper","pre/lab_paper.csv",pt+"lab_paper.ttl",ty,prefix,baseuri);
+        convertCSVToRDF("Reviewer","pre/lab_reviewers.csv",pt+"lab_reviewers.ttl",ty,prefix,baseuri);
         convertCSVToRDF("","pre/lab_journalConference.csv",pt+"lab_journalConference.ttl",ty,prefix,baseuri);
 
 
